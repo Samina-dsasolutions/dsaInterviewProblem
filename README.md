@@ -37,9 +37,11 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Arrays 3 :Interview Problems               |                  |                    |
+| DSA1                                       | question summery                          | youtube link       |                    
+| -------------------------------------------|-------------------------------------------|--------------------|
+| Arrays 3 : Interview Problems              |  First Missing Integer                    |                    |
+| Arrays 3 : Interview Problems              |  Merge Sorted Overlapping Intervals - 2   |                    |
+| Arrays 3 : Interview Problems              |  Merge Intervals - 2                      |                    |
 
 
 
