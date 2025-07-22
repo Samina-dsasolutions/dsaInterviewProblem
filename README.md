@@ -8,7 +8,7 @@
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 
-| DSA1                                       | question summery             | youtube link       | Sourse Code    |
+| DSA1                                       | question summery             | youtube link       | Sourse Code    | 
 | -------------------------------------------|------------------------------|--------------------|----------------|
 | Arrays 1 : One Dimensional                 |  Max Sum Contiguous Subarray |                    |                |
 | Arrays 1 : One Dimensional                 |  Continuous Sum Query        |                    |                |
