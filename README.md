@@ -171,9 +171,16 @@
 
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Sorting 1 Count Sort & Merge Sort          |                  |                    |
+| DSA1                                       | question summery                              | youtube link       |
+| -------------------------------------------|-----------------------------------------------|  -------------     |
+| Sorting 1 Count Sort & Merge Sort          |  Merge Two Sorted Arrays                      |                    |
+| Sorting 1 Count Sort & Merge Sort          |  Inversion count in an array                  |                    |
+| Sorting 1 Count Sort & Merge Sort          |  Merge Sort                                   |                    |
+| Sorting 1 Count Sort & Merge Sort          |  Smallest Number                              |                    |
+| Sorting 1 Count Sort & Merge Sort          |  Sort by Color                                |                    |
+| Sorting 1 Count Sort & Merge Sort          |  Max Chunks To Make Sorted                    |                    |
+| Sorting 1 Count Sort & Merge Sort          |  Count Sort                                   |                    |
+| Sorting 1 Count Sort & Merge Sort          |  Sort subarray with left and right index      |                    |
 
 
 
