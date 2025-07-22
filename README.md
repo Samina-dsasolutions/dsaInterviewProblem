@@ -68,9 +68,15 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Bit Manipulation 2                         |                  |                    |
+| DSA1                                       | question summery            | youtube link       |
+| -------------------------------------------|-----------------------------|--------------------|
+| Bit Manipulation 2                         |  Single Number II           |                    |
+| Bit Manipulation 2                         |  Single Number III          |                    |
+| Bit Manipulation 2                         |  Sum of Xor of all Pairs    |                    |
+| Bit Manipulation 2                         |  Min XOR value              |                    |
+| Bit Manipulation 2                         |  Strange Equality           |                    |
+| Bit Manipulation 2                         |  SUBARRAY OR                |                    |
+| Bit Manipulation 2                         |  Find Two Missing Numbers   |                    |
 
 
 
