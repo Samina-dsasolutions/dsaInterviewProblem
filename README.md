@@ -1,9 +1,5 @@
-| Left-aligned | Center-aligned | Right-aligned |         
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Count Of Question | Advanced DSA 1 | Advanced DSA 2 | Advanced DSA 3 | Advanced DSA 4 |       
+| :---           |     :---:      |          ---: |
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+
+
