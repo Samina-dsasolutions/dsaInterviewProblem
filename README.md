@@ -7,6 +7,8 @@
 
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 
 | DSA1                                       | question summery             | youtube link       | Sourse Code    | 
 | -------------------------------------------|------------------------------|--------------------|----------------|
@@ -190,3 +192,93 @@
 
 
 ------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                            | youtube link       | Sourse Code    |
+|--------------------------------------------| --------------------------------------------|  -------------     |----------------|
+| Searching 1: Binary Search on Array        |  Search for a Range                         |                    |                |
+| Searching 1: Binary Search on Array        |  Sorted Insert Position                     |                    |                |
+| Searching 1: Binary Search on Array        |  Single Element in Sorted Array             |                    |                |
+| Searching 1: Binary Search on Array        |  Find a peak element                        |                    |                |
+| Searching 1: Binary Search on Array        |  Matrix Search                              |                    |                |
+| Searching 1: Binary Search on Array        |  Minimum Difference                         |                    |                |
+| Searching 1: Binary Search on Array        |  Maximum height of staircase                |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                   | youtube link       | Sourse Code    |
+|--------------------------------------------| -----------------------------------|  -------------     |----------------|
+| Searching 2: Binary Search Problems        |  Square Root of Integer            |                    |                |
+| Searching 2: Binary Search Problems        |  Rotated Sorted Array Search       |                    |                |
+| Searching 2: Binary Search Problems        |  Median of two sorted arrays       |                    |                |
+| Searching 2: Binary Search Problems        |  Matrix Median                     |                    |                |
+| Searching 2: Binary Search Problems        |  ADD OR NOT                        |                    |                |
+| Searching 2: Binary Search Problems        |  Ath Magical Number                |                    |                |
+| Searching 2: Binary Search Problems        |  Find Smallest Again               |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                   | youtube link       | Sourse Code    |
+|--------------------------------------------| -----------------------------------|  -------------     |----------------|
+| Searching 3: Binary Search on Answer       |  Painter's Partition Problem       |                    |                |
+| Searching 3: Binary Search on Answer       |  Aggressive cows                   |                    |                |
+| Searching 3: Binary Search on Answer       |  Allocate Books                    |                    |                |
+| Searching 3: Binary Search on Answer       |  Special Integer                   |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Classes, Objects & Linked List Introduction|  Ref vs Instance 1 (OOPs Basics)           |                    |                |
+| Classes, Objects & Linked List Introduction|  Ref vs Instance 2 (OOPs Basics)           |                    |                |
+| Classes, Objects & Linked List Introduction|  Ref vs Instance 3 (OOPs Basics)           |                    |                |
+| Classes, Objects & Linked List Introduction|  Ref vs Instance 4 (OOPs Basics)           |                    |                |
+| Classes, Objects & Linked List Introduction|  Print Linked List                         |                    |                |
+| Classes, Objects & Linked List Introduction|  Ref vs Instance 5 (OOPs Basics)           |                    |                |
+| Classes, Objects & Linked List Introduction|  Ref vs Instance 6 (OOPs Basics)           |                    |                |
+| Classes, Objects & Linked List Introduction|  OOPs in Java (Constructors and Static) 1  |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+
+
