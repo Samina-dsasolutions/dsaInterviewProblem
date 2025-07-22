@@ -116,9 +116,16 @@
 
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Maths: Modular Arithmetic & GCD            |                  |                    |
+| DSA1                                       | question summery               | youtube link       |
+| -------------------------------------------|--------------------------------|--------------------|
+| Maths: Modular Arithmetic & GCD            |  Implement Power Function      |                    |
+| Maths: Modular Arithmetic & GCD            |  Greatest Common Divisor       |                    |
+| Maths: Modular Arithmetic & GCD            |  Pair Sum divisible by M       |                    |
+| Maths: Modular Arithmetic & GCD            |  Largest Coprime Divisor       |                    |
+| Maths: Modular Arithmetic & GCD            |  Divisor game                  |                    |
+| Maths: Modular Arithmetic & GCD            |  Mod Sum                       |                    |
+| Maths: Modular Arithmetic & GCD            |  A, B and Modulo               |                    |
+| Maths: Modular Arithmetic & GCD            |  Delete one                    |                    |
 
 
 
