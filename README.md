@@ -147,9 +147,15 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Hashing 2 Problems                  |                  |                    |
+| DSA1                                       | question summery                 | youtube link       |
+| -------------------------------------------|----------------------------------|--------------------|
+| Hashing 2 Problems                         |  Check Pair Sum                  |                    |
+| Hashing 2 Problems                         |  Count Pair Difference           |                    |
+| Hashing 2 Problems                         |  Subarray Sum Equals K           |                    |
+| Hashing 2 Problems                         |  Distinct Numbers in Window      |                    |
+| Hashing 2 Problems                         |  Longest Subarray Zero Sum       |                    |
+| Hashing 2 Problems                         |  Count Pair Sum                  |                    |
+| Hashing 2 Problems                         |  Subarray with given sum         |                    |
 
 
 
