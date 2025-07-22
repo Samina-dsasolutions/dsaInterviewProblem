@@ -83,9 +83,16 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| DSA Recursion 1                            |                  |                    |
+| DSA1                                       | question summery                         | youtube link       |
+| -------------------------------------------| -----------------------------------------|--------------------|
+| DSA Recursion 1                            |  Simple Recursion                        |                    |
+| DSA Recursion 1                            |  Find Factorial!                         |                    |
+| DSA Recursion 1                            |  Find Fibonacci - II                     |                    |
+| DSA Recursion 1                            |  Print 1 to A function                   |                    |
+| DSA Recursion 1                            |  Print A to 1 function                   |                    |
+| DSA Recursion 1                            |  Output - 7                              |                    |
+| DSA Recursion 1                            |  Sum of Digits!                          |                    |
+| DSA Recursion 1                            |  Decreasing Increasing in one Function   |                    |
 
 
 
