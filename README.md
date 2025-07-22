@@ -23,9 +23,14 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Arrays 2 : Two Dimensional                 |                  |                    |      
+| DSA1                                       | question summery                                      | youtube link       |
+|--------------------------------------------| ------------------------------------------------------|  -------------     |
+| Arrays 2 : Two Dimensional                 |  Spiral Order Matrix II                               |                    |
+| Arrays 2 : Two Dimensional                 |  Search in a row wise and column wise sorted matrix   |                    |
+| Arrays 2 : Two Dimensional                 |  Sum of all Submatrices                               |                    |
+| Arrays 2 : Two Dimensional                 |  Minimum Swaps                                        |                    |
+| Arrays 2 : Two Dimensional                 |  row with maximum number of ones                      |                    |
+
 
 
 
