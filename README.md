@@ -99,9 +99,17 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| DSA Recursion 2                            |                  |                    |
+| DSA1                                       | question summery                           | youtube link       |
+| -------------------------------------------|--------------------------------------------|  -------------     |
+| DSA Recursion 2                            |  Check Palindrome using Recursion          |                    |
+| DSA Recursion 2                            |  Tower of Hanoi                            |                    |
+| DSA Recursion 2                            |  All Indices Of Array                      |                    |
+| DSA Recursion 2                            |  Print Array using Recursion               |                    |
+| DSA Recursion 2                            |  Fast Power                                |                    |
+| DSA Recursion 2                            |  Is magic?                                 |                    |
+| DSA Recursion 2                            |  Max of an Array Using Recursion           |                    |
+| DSA Recursion 2                            |  First Index using Recursion               |                    |
+| DSA Recursion 2                            |  Last Index using Recursion                |                    |
 
 
 ------------------------------------------------------------------------------------------------------------
