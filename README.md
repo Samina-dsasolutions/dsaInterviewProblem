@@ -48,9 +48,20 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Bit Manipulation 1                         |                  |                    |
+| DSA1                                       | question summery        | youtube link       |
+| -------------------------------------------|-------------------------|--------------------|
+| Bit Manipulation 1                         |  Number of 1 Bits       |                    |
+| Bit Manipulation 1                         |  Single Number          |                    |
+| Bit Manipulation 1                         |  Unset i-th bit         |                    |
+| Bit Manipulation 1                         |  Toggle i-th bit        |                    |
+| Bit Manipulation 1                         |  Check bit              |                    |
+| Bit Manipulation 1                         |  Set Bit                |                    |
+| Bit Manipulation 1                         |  Find nth Magic Number  |                    |
+| Bit Manipulation 1                         |  Help From Sam          |                    |
+| Bit Manipulation 1                         |  Finding Good Days      |                    |
+
+
+
 
 
 
