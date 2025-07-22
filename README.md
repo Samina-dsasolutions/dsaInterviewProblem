@@ -8,9 +8,15 @@
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Arrays 1 : One Dimensional                 |                  |                    |
+| DSA1                                       | question summery             | youtube link       |
+| -------------------------------------------|------------------------------|--------------------|
+| Arrays 1 : One Dimensional                 |  Max Sum Contiguous Subarray |                    |
+| Arrays 1 : One Dimensional                 |  Continuous Sum Query        |                    |
+| Arrays 1 : One Dimensional                 |  Rain Water Trapped          |                    |
+| Arrays 1 : One Dimensional                 |  Add One To Number           |                    |
+| Arrays 1 : One Dimensional                 |  Flip                        |                    |
+
+
 
 
 
