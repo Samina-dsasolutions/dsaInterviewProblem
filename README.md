@@ -6,67 +6,112 @@
 | Advance DSA 4   |                |
 
 
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| Arrays 1 : One Dimensional          |                  |                    |
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| Arrays 1 : One Dimensional                 |                  |                    |
 
 
 
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| Arrays 2 : Two Dimensional          |                  |                    |
-
-
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| Arrays 3 :Interview Problems        |                  |                    |
-
-
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| Bit Manipulation 1                  |                  |                    |
-
-
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| Bit Manipulation 2                  |                  |                    |
-
-
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| DSA Recursion 1                     |                  |                    |
-
-
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| DSA Recursion 2                     |                  |                    |
-
-
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| Maths: Modular Arithmetic & GCD     |                  |                    |
 
 
 
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| Arrays 2 : Two Dimensional                 |                  |                    |      
+
+
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| Arrays 3 :Interview Problems               |                  |                    |
+
+
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| Bit Manipulation 1                         |                  |                    |
+
+
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| Bit Manipulation 2                         |                  |                    |
+
+
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| DSA Recursion 1                            |                  |                    |
+
+
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| DSA Recursion 2                            |                  |                    |
+
+
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| Maths: Modular Arithmetic & GCD            |                  |                    |
+
+
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
 | Hashing 1 Introduction              |                  |                    |
 
 
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
 | Hashing 2 Problems                  |                  |                    |
 
 
 
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| Doubt Clearance + Problem Solving 1 |                  |                    |
 
 
-| DSA1                                | question summery | youtube link       |
-| ------------------------------------| -------------    |  -------------     |
-| Sorting 1 Count Sort & Merge Sort   |                  |                    |
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| Doubt Clearance + Problem Solving 1        |                  |                    |
+
+
+
+
+
+
+| DSA1                                       | question summery | youtube link       |
+| ------------------------------------       | -------------    |  -------------     |
+| Sorting 1 Count Sort & Merge Sort          |                  |                    |
+
+
+
+
 
 
 | DSA1                                       | question summery | youtube link       |
