@@ -132,9 +132,15 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Hashing 1 Introduction              |                  |                    |
+| DSA1                                       | question summery                 | youtube link       |
+| -------------------------------------------|----------------------------------|---------------     |
+| Hashing 1 Introduction                     |  Frequency of element query      |                    |
+| Hashing 1 Introduction                     |  Count distinct elements         |                    |
+| Hashing 1 Introduction                     |  First Repeating element         |                    |
+| Hashing 1 Introduction                     |  Sub-array with 0 sum            |                    |
+| Hashing 1 Introduction                     |  Common Elements                 |                    |
+| Hashing 1 Introduction                     |  Count unique elements           |                    |
+| Hashing 1 Introduction                     |  Count Subarray Zero Sum         |                    |
 
 
 
