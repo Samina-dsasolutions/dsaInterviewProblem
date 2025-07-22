@@ -9,7 +9,7 @@
 ------------------------------------------------------------------------------------------------------------
 
 | DSA1                                       | question summery             | youtube link       | Sourse Code    |
-| -------------------------------------------|------------------------------|--------------------|                |
+| -------------------------------------------|------------------------------|--------------------|----------------|
 | Arrays 1 : One Dimensional                 |  Max Sum Contiguous Subarray |                    |                |
 | Arrays 1 : One Dimensional                 |  Continuous Sum Query        |                    |                |
 | Arrays 1 : One Dimensional                 |  Rain Water Trapped          |                    |                |
@@ -24,7 +24,7 @@
 
 
 | DSA1                                       | question summery                                      | youtube link       | Sourse Code    |
-|--------------------------------------------| ------------------------------------------------------|  -------------     |                |
+|--------------------------------------------| ------------------------------------------------------|  -------------     |----------------|
 | Arrays 2 : Two Dimensional                 |  Spiral Order Matrix II                               |                    |                |
 | Arrays 2 : Two Dimensional                 |  Search in a row wise and column wise sorted matrix   |                    |                |
 | Arrays 2 : Two Dimensional                 |  Sum of all Submatrices                               |                    |                |
@@ -38,7 +38,7 @@
 
 
 | DSA1                                       | question summery                          | youtube link       | Sourse Code    |                    
-| -------------------------------------------|-------------------------------------------|--------------------|                |
+| -------------------------------------------|-------------------------------------------|--------------------|----------------|
 | Arrays 3 : Interview Problems              |  First Missing Integer                    |                    |                |
 | Arrays 3 : Interview Problems              |  Merge Sorted Overlapping Intervals - 2   |                    |                |
 | Arrays 3 : Interview Problems              |  Merge Intervals - 2                      |                    |                |
@@ -49,7 +49,7 @@
 
 
 | DSA1                                       | question summery        | youtube link       | Sourse Code    |
-| -------------------------------------------|-------------------------|--------------------|                |
+| -------------------------------------------|-------------------------|--------------------|----------------|
 | Bit Manipulation 1                         |  Number of 1 Bits       |                    |                |
 | Bit Manipulation 1                         |  Single Number          |                    |                |
 | Bit Manipulation 1                         |  Unset i-th bit         |                    |                |
@@ -69,7 +69,7 @@
 
 
 | DSA1                                       | question summery            | youtube link       | Sourse Code    |
-| -------------------------------------------|-----------------------------|--------------------|                |
+| -------------------------------------------|-----------------------------|--------------------|----------------|
 | Bit Manipulation 2                         |  Single Number II           |                    |                |
 | Bit Manipulation 2                         |  Single Number III          |                    |                |
 | Bit Manipulation 2                         |  Sum of Xor of all Pairs    |                    |                |
@@ -84,7 +84,7 @@
 
 
 | DSA1                                       | question summery                         | youtube link       | Sourse Code    |
-| -------------------------------------------| -----------------------------------------|--------------------|                |
+| -------------------------------------------| -----------------------------------------|--------------------|----------------|
 | DSA Recursion 1                            |  Simple Recursion                        |                    |                |
 | DSA Recursion 1                            |  Find Factorial!                         |                    |                |
 | DSA Recursion 1                            |  Find Fibonacci - II                     |                    |                |
@@ -100,7 +100,7 @@
 
 
 | DSA1                                       | question summery                           | youtube link       | Sourse Code    |
-| -------------------------------------------|--------------------------------------------|  -------------     |                |
+| -------------------------------------------|--------------------------------------------|  -------------     |----------------|
 | DSA Recursion 2                            |  Check Palindrome using Recursion          |                    |                |
 | DSA Recursion 2                            |  Tower of Hanoi                            |                    |                |
 | DSA Recursion 2                            |  All Indices Of Array                      |                    |                |
@@ -117,7 +117,7 @@
 
 
 | DSA1                                       | question summery               | youtube link       | Sourse Code    |
-| -------------------------------------------|--------------------------------|--------------------|                |
+| -------------------------------------------|--------------------------------|--------------------|----------------|
 | Maths: Modular Arithmetic & GCD            |  Implement Power Function      |                    |                |
 | Maths: Modular Arithmetic & GCD            |  Greatest Common Divisor       |                    |                |
 | Maths: Modular Arithmetic & GCD            |  Pair Sum divisible by M       |                    |                |
@@ -133,7 +133,7 @@
 
 
 | DSA1                                       | question summery                 | youtube link       | Sourse Code    |
-| -------------------------------------------|----------------------------------|---------------     |                |
+| -------------------------------------------|----------------------------------|---------------     |----------------|
 | Hashing 1 Introduction                     |  Frequency of element query      |                    |                |
 | Hashing 1 Introduction                     |  Count distinct elements         |                    |                |
 | Hashing 1 Introduction                     |  First Repeating element         |                    |                |
@@ -148,7 +148,7 @@
 
 
 | DSA1                                       | question summery                 | youtube link       | Sourse Code    |
-| -------------------------------------------|----------------------------------|--------------------|                |
+| -------------------------------------------|----------------------------------|--------------------|----------------|
 | Hashing 2 Problems                         |  Check Pair Sum                  |                    |                |
 | Hashing 2 Problems                         |  Count Pair Difference           |                    |                |
 | Hashing 2 Problems                         |  Subarray Sum Equals K           |                    |                |
@@ -172,7 +172,7 @@
 
 
 | DSA1                                       | question summery                              | youtube link       | Sourse Code    |
-| -------------------------------------------|-----------------------------------------------|  -------------     |                |
+| -------------------------------------------|-----------------------------------------------|  -------------     |----------------|
 | Sorting 1 Count Sort & Merge Sort          |  Merge Two Sorted Arrays                      |                    |                |
 | Sorting 1 Count Sort & Merge Sort          |  Inversion count in an array                  |                    |                |
 | Sorting 1 Count Sort & Merge Sort          |  Merge Sort                                   |                    |                |
@@ -188,7 +188,7 @@
 
 
 | DSA1                                       | question summery         | youtube link       | Sourse Code    |
-| -------------------------------------------|--------------------------|---------------     |                |
+| -------------------------------------------|--------------------------|---------------     |----------------|
 | Sorting 2 Quick Sort & Comparator Problems |  Count Intersection      |                    |                |
 | Sorting 2 Quick Sort & Comparator Problems |  Benjamin And XOR        |                    |                |
 | Sorting 2 Quick Sort & Comparator Problems |  Decreasing Dishes       |                    |                |
