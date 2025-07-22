@@ -187,9 +187,12 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-| DSA1                                       | question summery | youtube link       |
-| ------------------------------------       | -------------    |  -------------     |
-| Sorting 2 Quick Sort & Comparator Problems |                  |                    |
+| DSA1                                       | question summery         | youtube link       |
+| -------------------------------------------|--------------------------|---------------     |
+| Sorting 2 Quick Sort & Comparator Problems |  Count Intersection      |                    |
+| Sorting 2 Quick Sort & Comparator Problems |  Benjamin And XOR        |                    |
+| Sorting 2 Quick Sort & Comparator Problems |  Decreasing Dishes       |                    |
+| Sorting 2 Quick Sort & Comparator Problems |  Rain  Water Trapped     |                    |
     
 
 
