@@ -280,5 +280,148 @@
 
 | DSA2                                       | question summery                           | youtube link       | Sourse Code    |
 |--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Linked List: Basic Problems                |  Reverse Linked List                       |                    |                |
+| Linked List: Basic Problems                |  Copy List                                 |                    |                |
+| Linked List: Basic Problems                |  Insert in Linked List                     |                    |                |
+| Linked List: Basic Problems                |  Delete in Linked List                     |                    |                |
+| Linked List: Basic Problems                |  Remove Duplicates from Sorted List        |                    |                |
+| Linked List: Basic Problems                |  Remove Nth Node from List End             |                    |                |
+| Linked List: Basic Problems                |  Reverse Link List II                      |                    |                |
+| Linked List: Basic Problems                |  K reverse linked list                     |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Stacks 1: Implementation & Basic Problems  |  Evaluate Expression                       |                    |                |
+| Stacks 1: Implementation & Basic Problems  |  Balanced Paranthesis                      |                    |                |
+| Stacks 1: Implementation & Basic Problems  |  Double Character Trouble                  |                    |                |
+| Stacks 1: Implementation & Basic Problems  |  Passing game                              |                    |                |
+| Stacks 1: Implementation & Basic Problems  |  Min Stack                                 |                    |                |
+| Stacks 1: Implementation & Basic Problems  |  Redundant Braces                          |                    |                |
+| Stacks 1: Implementation & Basic Problems  |  Check two bracket expressions             |                    |                |
+| Stacks 1: Implementation & Basic Problems  |  Infix to Postfix                          |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Stacks 2: Nearest Smaller/Greater Element  |  Largest Rectangle in Histogram            |                    |                |
+| Stacks 2: Nearest Smaller/Greater Element  |  Nearest Smaller Element                   |                    |                |
+| Stacks 2: Nearest Smaller/Greater Element  |  MAX and MIN                               |                    |                |
+| Stacks 2: Nearest Smaller/Greater Element  |  Max Rectangle in Binary Matrix            |                    |                |
+| Stacks 2: Nearest Smaller/Greater Element  |  Next Greater                              |                    |                |
+| Stacks 2: Nearest Smaller/Greater Element  |  Sort stack using another stack            |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Queues: Implementation & Problems          |  Parking Ice Cream Truck                   |                    |                |
+| Queues: Implementation & Problems          |  Queue Using Stacks                        |                    |                |
+| Queues: Implementation & Problems          |  N integers containing only 1, 2 & 3       |                    |                |
+| Queues: Implementation & Problems          |  Unique Letter                             |                    |                |
+| Queues: Implementation & Problems          |  Sum of min and max                        |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Trees 1: Structure & Traversal             |  Inorder Traversal                         |                    |                |
+| Trees 1: Structure & Traversal             |  Preorder Traversal                        |                    |                |
+| Trees 1: Structure & Traversal             |  Path Sum                                  |                    |                |
+| Trees 1: Structure & Traversal             |  Equal Tree Partition                      |                    |                |
+| Trees 1: Structure & Traversal             |  Postorder Traversal                       |                    |                |
+| Trees 1: Structure & Traversal             |  Sum binary tree or not                    |                    |                |
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Trees 2: Views & Types                     |  Level Order                               |                    |                |
+| Trees 2: Views & Types                     |  Binary Tree From Inorder And Postorder    |                    |                |
+| Trees 2: Views & Types                     |  Balanced Binary Tree                      |                    |                |
+| Trees 2: Views & Types                     |  Left View of Binary tree                  |                    |                |
+| Trees 2: Views & Types                     |  Binary Tree From Inorder And Preorder     |                    |                |
+| Trees 2: Views & Types                     |  Serialize Binary Tree                     |                    |                |
+| Trees 2: Views & Types                     |  Deserialize Binary Tree                   |                    |                |
+| Trees 2: Views & Types                     |  Right View of Binary tree                 |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Trees 3: BST                               |  Valid Binary Search Tree                  |                    |                |
+| Trees 3: BST                               |  Sorted Array To Balanced BST              |                    |                |
+| Trees 3: BST                               |  Delete a node in BST                      |                    |                |
+| Trees 3: BST                               |  Search in BST                             |                    |                |
+| Trees 3: BST                               |  Two Sum BST                               |                    |                |
+| Trees 3: BST                               |  Check for BST with One Child              |                    |                |
+| Trees 3: BST                               |  BST nodes in a range                      |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA2                                                          | question summery                           | youtube link       | Sourse Code    |
+|---------------------------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees | Task Sceduling                             |                    |                |
+| DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees | leaset capacity to ship                    |                    |                |
+| DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees | warmer temperature                         |                    |                |
+| DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees | balanced binary tree                       |                    |                |
+
+
 
 
