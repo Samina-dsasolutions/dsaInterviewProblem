@@ -232,7 +232,7 @@
 | Rain Water Trapped | [🔗](#) | [💻](#) |
 
 </details>
----
+
 ### DSA1: Questions List
 
 <details>
