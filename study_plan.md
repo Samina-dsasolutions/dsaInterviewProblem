@@ -80,6 +80,7 @@
 
 ### 🌟 **DSA1: Questions List**
 
+#### Array 1D Problems
 | Category | Question | YouTube Link | Source Code |
 |----------|----------|--------------|--------------|
 | Arrays 1 | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
