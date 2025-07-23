@@ -233,7 +233,7 @@
 
 </details>
 
-### DSA1: Questions List
+### DSA2: Questions List
 
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
