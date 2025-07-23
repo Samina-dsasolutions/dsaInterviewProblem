@@ -80,18 +80,18 @@
 
 ### 🌟 **DSA1: Questions List**
 
-#### Array 1D Problems
-| Category | Question | YouTube Link | Source Code |
-|----------|----------|--------------|--------------|
-| Arrays 1 | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
-| Arrays 1 | Continuous Sum Query | [🔗](#) | [💻](#) |
-| Arrays 1 | Rain Water Trapped | [🔗](#) | [💻](#) |
-| Arrays 1 | Add One To Number | [🔗](#) | [💻](#) |
-| Arrays 1 | Flip | [🔗](#) | [💻](#) |
+#### Array 1 : One Dimensional
+| DSA1 | Question Summary | YouTube Link | Source Code |
+|-------|--------------------|--------------|--------------|
+| Arrays 1 : One Dimensional | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
+| Arrays 1 : One Dimensional | Continuous Sum Query | [🔗](#) | [💻](#) |
+| Arrays 1 : One Dimensional | Rain Water Trapped | [🔗](#) | [💻](#) |
+| Arrays 1 : One Dimensional | Add One To Number | [🔗](#) | [💻](#) |
+| Arrays 1 : One Dimensional | Flip | [🔗](#) | [💻](#) |
 
 ---
 
-### 🌟 **Arrays 2: Questions List**
+### 🌟 **Arrays 2: Two Dimensional**
 
 | Category | Question | YouTube Link | Source Code |
 |----------|------------|--------------|--------------|
