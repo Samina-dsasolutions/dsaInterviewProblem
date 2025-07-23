@@ -45,11 +45,14 @@
 
 ---
 
-### **🏁 Stage 3: Advanced & Contest Mastery**
-- Hard DP Problems & Patterns 🧩
-- Greedy Strategies ⚡
-- Advanced Graph Algorithms 🌉
-- Segment Trees, Fenwick Trees
+### 🏁 Stage 3: Advanced & Contest Mastery
+
+- Maths: Combinatorics & Prime Numbers 🧮
+- Trees: LCA (Lowest Common Ancestor), Morris Inorder Traversal, and Problems on Trees 🌳
+- Linked List: Sorting, Detecting Loop & Problems (including Doubly Linked List) 🔄
+- Backtracking (Problems & Variations) 💡
+- Hashing 3: Internal Implementation, Problems & Problem Solving Session 🔑
+- DSA Contest 3: Math, Two Pointers, Backtracking, Linked List & Trees 🏆
 - Practice in Real Contests 🏅
 
 > **End Goal:** Prepare for interviews, Olympiads, and coding competitions.
