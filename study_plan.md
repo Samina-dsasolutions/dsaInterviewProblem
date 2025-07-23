@@ -76,12 +76,12 @@
   
 ## 🔖 Question Bank & Resources
 
-# DSA1: Questions List
+### DSA1: Questions List
 
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
-### Array 1D
+#### Array 1D
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
@@ -92,7 +92,7 @@
 
 ---
 
-### Arrays 2D
+#### Arrays 2D
 | Question Summary | YouTube | Source Code |
 |------------------------|---------|--------------|
 | Spiral Order Matrix II | [🔗](#) | [💻](#) |
@@ -103,7 +103,7 @@
 
 ---
 
-### Interview Problems
+#### Interview Problems
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | First Missing Integer | [🔗](#) | [💻](#) |
@@ -112,7 +112,7 @@
 
 ---
 
-### Bit Manipulation 1
+#### Bit Manipulation 1
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Number of 1 Bits | [🔗](#) | [💻](#) |
@@ -127,7 +127,7 @@
 
 ---
 
-### Bit Manipulation 2
+#### Bit Manipulation 2
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Single Number II | [🔗](#) | [💻](#) |
@@ -140,7 +140,7 @@
 
 ---
 
-### Recursion 1
+#### Recursion 1
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Simple Recursion | [🔗](#) | [💻](#) |
@@ -154,7 +154,7 @@
 
 ---
 
-### Recursion 2
+#### Recursion 2
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Check Palindrome | [🔗](#) | [💻](#) |
