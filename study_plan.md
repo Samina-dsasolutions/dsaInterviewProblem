@@ -558,6 +558,198 @@
 | Flatten Binary Tree to Linkedlist | [🔗](#) | [💻](#) |
 
 </details>
+### DSA4: Questions List
+
+<details>
+<summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
+
+#### Heaps 1: Introduction
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Connect ropes | [🔗](#) | [💻](#) |
+| Build a Heap | [🔗](#) | [💻](#) |
+| Heap Queries | [🔗](#) | [💻](#) |
+| Maximum array sum after B negations | [🔗](#) | [💻](#) |
+| Misha and Candies | [🔗](#) | [💻](#) |
+| Minimum largest element | [🔗](#) | [💻](#) |
+
+---
+
+#### Heaps 2: Problems
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Ath Largest Element | [🔗](#) | [💻](#) |
+| Running Median | [🔗](#) | [💻](#) |
+| Ways to form Max Heap | [🔗](#) | [💻](#) |
+| Product of 3 | [🔗](#) | [💻](#) |
+| Kth Smallest Element in a Sorted Matrix | [🔗](#) | [💻](#) |
+
+---
+
+#### Interview Problems
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Shaggy and distances | [🔗](#) | [💻](#) |
+| K Places Apart | [🔗](#) | [💻](#) |
+| Merge K Sorted Lists | [🔗](#) | [💻](#) |
+| Meeting Rooms II | [🔗](#) | [💻](#) |
+
+---
+
+#### Greedy
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Flipkart's Challenge in Effective Inventory Management | [🔗](#) | [💻](#) |
+| Finish Maximum Jobs | [🔗](#) | [💻](#) |
+| Distribute Candy | [🔗](#) | [💻](#) |
+| Another Coin Problem | [🔗](#) | [💻](#) |
+| Seats | [🔗](#) | [💻](#) |
+| Assign Mice to Holes | [🔗](#) | [💻](#) |
+
+---
+
+#### Heaps 2: Problems
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Running Median | [🔗](#) | [💻](#) |
+| Finish Maximum Jobs | [🔗](#) | [💻](#) |
+| Seats | [🔗](#) | [💻](#) |
+| Assign Mice to Holes | [🔗](#) | [💻](#) |
+| Ways to form Max Heap | [🔗](#) | [💻](#) |
+| Another Coin Problem | [🔗](#) | [💻](#) |
+
+---
+
+#### Lab Session on Heaps & Greedy
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Distribute Candy | [🔗](#) | [💻](#) |
+| Merge K Sorted Lists | [🔗](#) | [💻](#) |
+| Ath Largest Element | [🔗](#) | [💻](#) |
+| Flipkart's Challenge in Inventory Management | [🔗](#) | [💻](#) |
+| Product of 3 | [🔗](#) | [💻](#) |
+| Kth Smallest Element in a Sorted Matrix | [🔗](#) | [💻](#) |
+
+---
+
+#### Lab Session on Interview Problems 1
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Shaggy and distances | [🔗](#) | [💻](#) |
+| K Places Apart | [🔗](#) | [💻](#) |
+| Meeting Rooms II | [🔗](#) | [💻](#) |
+| Minimum Window Substring | [🔗](#) | [💻](#) |
+
+---
+
+#### DP 1: One Dimensional
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Stairs | [🔗](#) | [💻](#) |
+| Minimum Number of Squares | [🔗](#) | [💻](#) |
+| Fibonacci Number | [🔗](#) | [💻](#) |
+| Max Product Subarray | [🔗](#) | [💻](#) |
+| Maximum Sum Value | [🔗](#) | [💻](#) |
+
+---
+
+#### DP 2: Two Dimensional
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Unique Paths in a Grid | [🔗](#) | [💻](#) |
+| Unique Binary Search Trees II | [🔗](#) | [💻](#) |
+| Max Sum Without Adjacent Elements | [🔗](#) | [💻](#) |
+| N digit numbers | [🔗](#) | [💻](#) |
+| Max Rectangle in Binary Matrix | [🔗](#) | [💻](#) |
+| Min Sum Path in Matrix | [🔗](#) | [💻](#) |
+| Min Sum Path in Triangle | [🔗](#) | [💻](#) |
+| Intersecting Chords in a Circle | [🔗](#) | [💻](#) |
+
+---
+
+#### DP 3: Knapsack
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| 0-1 Knapsack | [🔗](#) | [💻](#) |
+| Unbounded Knapsack | [🔗](#) | [💻](#) |
+| Fractional Knapsack | [🔗](#) | [💻](#) |
+| Tushar's Birthday Party | [🔗](#) | [💻](#) |
+| Ways to send the signal | [🔗](#) | [💻](#) |
+| Buying Candies | [🔗](#) | [💻](#) |
+
+---
+
+#### Lab Session on Applications of Knapsack
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Coin Sum Infinite | [🔗](#) | [💻](#) |
+| Cutting a Rod | [🔗](#) | [💻](#) |
+| 0-1 Knapsack II | [🔗](#) | [💻](#) |
+| Distinct Subsequences | [🔗](#) | [💻](#) |
+| Let's Party | [🔗](#) | [💻](#) |
+| Length of Longest Fibonacci Subsequence | [🔗](#) | [💻](#) |
+
+---
+
+#### Graphs 1: Introduction, DFS & Cycle Detection
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Cycle in Directed Graph | [🔗](#) | [💻](#) |
+| Path in Directed Graph | [🔗](#) | [💻](#) |
+| First Depth First Search | [🔗](#) | [💻](#) |
+| Maximum Depth | [🔗](#) | [💻](#) |
+
+---
+
+#### Graphs 2: BFS & MST
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Commutable Islands | [🔗](#) | [💻](#) |
+| Rotten Oranges | [🔗](#) | [💻](#) |
+| Construction Cost | [🔗](#) | [💻](#) |
+| Capture Regions on Board | [🔗](#) | [💻](#) |
+| Black Shapes | [🔗](#) | [💻](#) |
+| Knight On Chess Board | [🔗](#) | [💻](#) |
+| Damaged Roads | [🔗](#) | [💻](#) |
+| Edge in MST | [🔗](#) | [💻](#) |
+
+---
+
+#### Graphs 3: Dijkstra Algo & Topological Sort
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Possibility of Finishing | [🔗](#) | [💻](#) |
+| Dijkstra | [🔗](#) | [💻](#) |
+| Another BFS | [🔗](#) | [💻](#) |
+| Topological Sort | [🔗](#) | [💻](#) |
+| Ways to Decode | [🔗](#) | [💻](#) |
+| Largest Distance between nodes of a Tree | [🔗](#) | [💻](#) |
+| Flip Array | [🔗](#) | [💻](#) |
+| Perfect Numbers | [🔗](#) | [💻](#) |
+
+---
+
+#### Lab Session on Interview Problems 2
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Best Time to Buy and Sell Stocks II | [🔗](#) | [💻](#) |
+| Shortest Distance in a Maze | [🔗](#) | [💻](#) |
+| Number of Islands | [🔗](#) | [💻](#) |
+| Jump Game 2 | [🔗](#) | [💻](#) |
+| Valid Path | [🔗](#) | [💻](#) |
+
+---
+
+#### DSA Contest 4: Heaps, Greedy, DP & Graphs
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Magical Bridge | [🔗](#) | [💻](#) |
+| Strenthen it | [🔗](#) | [💻](#) |
+| Minimum Number of Square | [🔗](#) | [💻](#) |
+| Bob and Chocolates | [🔗](#) | [💻](#) |
+
+</details>
+
 ---
 
 
