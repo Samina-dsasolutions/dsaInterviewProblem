@@ -59,6 +59,20 @@
 
 ---
 
+### 🌟 Stage 4: Advanced Topics & Labs
+
+- Heaps (Introduction & Problems) ⚙️
+- Interview Problems 💼
+- Greedy & Lab Session on Heaps & Greedy ⚡
+- Heaps (Problems) 📚
+- Lab Session on Interview Problems 1 📝
+- DP (1D & 2D) 🔢
+- DP 3: Knapsack & Applications of Knapsack 🎒
+- Graph Algorithms: Introduction, DFS, Cycle Detection, BFS, MST, Dijkstra, Topological Sort 🌐
+- Lab Session on Interview Problems 2 📝
+- DSA Contest 4: Heaps, Greedy, DP & Graphs 🏆
+
+  
 ## 🔖 **Question Bank & Resources**
 
 <details>
