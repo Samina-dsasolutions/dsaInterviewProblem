@@ -17,12 +17,15 @@
 
 ## 📘 **Structured Learning Path**
 
-### **🌱 Stage 1: Foundations**
+### 🌱 Stage 1: Foundations
 - Arrays & Strings 📖
 - Searching & Binary Search 🔍
 - Recursion & Backtracking 🔄
 - Math & Modular Arithmetic 🧮
 - Bit Manipulation ⚙️
+- Hashing 🔑
+- Sorting: Count Sort & Merge Sort 📝
+- Sorting: Quick Sort & Comparator Problems ⚡
 
 > **Goal:** Establish a solid base with easy and medium problems.
 
