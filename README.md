@@ -422,6 +422,208 @@
 | DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees | warmer temperature                         |                    |                |
 | DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees | balanced binary tree                       |                    |                |
 
+    
+
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                            | youtube link       | Sourse Code    |
+|--------------------------------------------| --------------------------------------------|  -------------     |----------------|
+| Maths: Combinatorics Basics                |  Pascal Triangle                            |                    |                |
+| Maths: Combinatorics Basics                |  Excel Column Title                         |                    |                |
+| Maths: Combinatorics Basics                |  Compute nCr % m                            |                    |                |
+| Maths: Combinatorics Basics                |  Excel Column Number                        |                    |                |
+| Maths: Combinatorics Basics                |  Number of Digit One                        |                    |                |
+| Maths: Combinatorics Basics                |  Consecutive Numbers Sum                    |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Maths: Prime Numbers                       |  Sorted Permutation Rank                   |                    |                |
+| Maths: Prime Numbers                       |  Count of divisors                         |                    |                |
+| Maths: Prime Numbers                       |  Find All Primes                           |                    |                |
+| Maths: Prime Numbers                       |  Prime Sumq                                |                    |                |
+| Maths: Prime Numbers                       |  Lucky Numbers                             |                    |                |
+| Maths: Prime Numbers                       |  Number of Digit One                       |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Two Pointers                               |  Container With Most Water                 |                    |                |
+| Two Pointers                               |  Subarray with given sum                   |                    |                |
+| Two Pointers                               |  Pairs with given sum II                   |                    |                |
+| Two Pointers                               |  Pairs with Given Difference               |                    |                |
+| Two Pointers                               |  3 Sum                                     |                    |                |
+| Two Pointers                               |  Array 3 Pointers                          |                    |                |
+| Two Pointers                               |  Max Continuous Series of 1s               |                    |                |
+| Two Pointers                               |  Another Count Rectangles                  |                    |                |
+| Two Pointers                               |  Closest pair from sorted arrays           |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| Backtracking 1                             |  Permutations                              |                    |                |
+| Backtracking 1                             |  Generate all Parentheses II               |                    |                |
+| Backtracking 1                             |  Generate Subsets                          |                    |                |
+| Backtracking 1                             |  Letter Phone                              |                    |                |
+| Backtracking 1                             |  Kth Symbol - Easy                         |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Backtracking 2                             |  Subset Sum equal to K                             |                    |                |
+| Backtracking 2                             |  Print paths in Staircase                          |                    |                |
+| Backtracking 2                             |  Print All Maze Paths                              |                    |                |
+| Backtracking 2                             |  Kth Symbol - Hard                                 |                    |                |
+| Backtracking 2                             |  Shortest path in a Binary Maze with Hurdles       |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Linked List: Sorting and Detecting Loop    |  Sort List                                         |                    |                |
+| Linked List: Sorting and Detecting Loop    |  Merge Two Sorted Lists                            |                    |                |
+| Linked List: Sorting and Detecting Loop    |  Remove Loop from Linked List                      |                    |                |
+| Linked List: Sorting and Detecting Loop    |  Middle element of linked list                     |                    |                |
+| Linked List: Sorting and Detecting Loop    |  Swap List Nodes in pairs                          |                    |                |
+| Linked List: Sorting and Detecting Loop    |  Reorder List                                      |                    |                |
+| Linked List: Sorting and Detecting Loop    |  Add Two Numbers as Lists                          |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Linked List: Problems & Doubly Linked List |  Intersection of Linked Lists                      |                    |                |
+| Linked List: Problems & Doubly Linked List |  LRU Cache                                         |                    |                |
+| Linked List: Problems & Doubly Linked List |  Palindrome List                                   |                    |                |
+| Linked List: Problems & Doubly Linked List |  Partition List                                    |                    |                |
+| Linked List: Problems & Doubly Linked List |  Longest Palindromic List                          |                    |                |
+| Linked List: Problems & Doubly Linked List |  Flatten a linked list                             |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Trees 4: LCA + Morris Inorder Traversal    |  Least Common Ancestor                             |                    |                |
+| Trees 4: LCA + Morris Inorder Traversal    |  Kth Smallest Element In BST                       |                    |                |
+| Trees 4: LCA + Morris Inorder Traversal    |  LCA in BST                                        |                    |                |
+| Trees 4: LCA + Morris Inorder Traversal    |  Morris Inorder Traversal                          |                    |                |
+| Trees 4: LCA + Morris Inorder Traversal    |  Recover Binary Search Tree                        |                    |                |
+| Trees 4: LCA + Morris Inorder Traversal    |  Common Nodes in Two BST                           |                    |                |
+| Trees 4: LCA + Morris Inorder Traversal    |  Distance between Nodes of BST                     |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Trees 5: Problems on Trees                 |  Next Pointer Binary Tree                          |                    |                |
+| Trees 5: Problems on Trees                 |  Vertical Order traversal                          |                    |                |
+| Trees 5: Problems on Trees                 |  Top View of Binary tree                           |                    |                |
+| Trees 5: Problems on Trees                 |  Diameter of binary tree                           |                    |                |
+| Trees 5: Problems on Trees                 |  Identical Binary Trees                            |                    |                |
+| Trees 5: Problems on Trees                 |  Invert the Binary Tree                            |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                          | question summery                                   | youtube link       | Sourse Code    |
+|-----------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Hashing 3: Internal Implementation & Problems |  Longest Subarray Zero Sum                         |                    |                |
+| Hashing 3: Internal Implementation & Problems |  Colorful Number                                   |                    |                |
+| Hashing 3: Internal Implementation & Problems |  Count Subarrays                                   |                    |                |
+| Hashing 3: Internal Implementation & Problems |  Sort Array in given Order                         |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                                                 | question summery                                   | youtube link       | Sourse Code    |
+|----------------------------------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| DSA Contest 3: Math, Two Pointers, Backtracking, Linked List & Trees |  Permutations                                      |                    |                |
+| DSA Contest 3: Math, Two Pointers, Backtracking, Linked List & Trees |  special prime number                              |                    |                |
+| DSA Contest 3: Math, Two Pointers, Backtracking, Linked List & Trees |  childern and rides                                |                    |                |
+| DSA Contest 3: Math, Two Pointers, Backtracking, Linked List & Trees |  flatten binary tree to linkedlist                 |                    |                |
+
+
+
 
 
 
