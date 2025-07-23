@@ -31,12 +31,15 @@
 
 ---
 
-### **🚀 Stage 2: Intermediate Skills**
-- Hashing & Maps 🗺️
-- Sorting Algorithms & Two Pointers 🔄
-- Dynamic Programming 💡
-- Trees & Graphs 🌳🌐
-- Sliding Window & Sliding Techniques 🔁
+### 🌟 Stage 2: Intermediate Skills - Topics
+
+- 🔎 Searching (Binary Search and Variants) 🔍
+- 🧩 Classes, Objects & Linked List 📚
+- 📝 Linked List Basic Problems 📝
+- 🛠️ Stacks (Implementation & Nearest Smaller/Greater) ⚙️
+- 🚦 Queues (Implementation & Problems) 🚆
+- 🌳 Trees & Traversals (Structure, Views & BST) 🌲
+- 🏁 DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees 🏆
 
 > **Goal:** Recognize patterns, optimize solutions, prepare for contests.
 
