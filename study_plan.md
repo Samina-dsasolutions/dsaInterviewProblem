@@ -238,155 +238,154 @@
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
-#### Array 1D
+#### Searching 1: Binary Search on Array
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
-| Continuous Sum Query | [🔗](#) | [💻](#) |
-| Rain Water Trapped | [🔗](#) | [💻](#) |
-| Add One To Number | [🔗](#) | [💻](#) |
-| Flip | [🔗](#) | [💻](#) |
+| Search for a Range | [🔗](#) | [💻](#) |
+| Sorted Insert Position | [🔗](#) | [💻](#) |
+| Single Element in Sorted Array | [🔗](#) | [💻](#) |
+| Find a Peak Element | [🔗](#) | [💻](#) |
+| Matrix Search | [🔗](#) | [💻](#) |
+| Minimum Difference | [🔗](#) | [💻](#) |
+| Max Height of Staircase | [🔗](#) | [💻](#) |
 
 ---
 
-#### Arrays 2D
+#### Searching 2: Binary Search Problems
 | Question Summary | YouTube | Source Code |
-|------------------------|---------|--------------|
-| Spiral Order Matrix II | [🔗](#) | [💻](#) |
-| Search in sorted row & column matrix | [🔗](#) | [💻](#) |
-| Sum of all submatrices | [🔗](#) | [💻](#) |
-| Minimum Swaps | [🔗](#) | [💻](#) |
-| Max row of 1s | [🔗](#) | [💻](#) |
+|--------------------|---------|--------------|
+| Square Root of Integer | [🔗](#) | [💻](#) |
+| Rotated Sorted Array Search | [🔗](#) | [💻](#) |
+| Median of Two Sorted Arrays | [🔗](#) | [💻](#) |
+| Matrix Median | [🔗](#) | [💻](#) |
+| ADD OR NOT | [🔗](#) | [💻](#) |
+| Ath Magical Number | [🔗](#) | [💻](#) |
+| Find Smallest Again | [🔗](#) | [💻](#) |
 
 ---
 
-#### Interview Problems
+#### Searching 3: Binary Search on Answer
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| First Missing Integer | [🔗](#) | [💻](#) |
-| Merge Overlapping Intervals | [🔗](#) | [💻](#) |
-| Merge Intervals | [🔗](#) | [💻](#) |
+| Painter's Partition Problem | [🔗](#) | [💻](#) |
+| Aggressive Cows | [🔗](#) | [💻](#) |
+| Allocate Books | [🔗](#) | [💻](#) |
+| Special Integer | [🔗](#) | [💻](#) |
 
 ---
 
-#### Bit Manipulation 1
+#### Classes, Objects & Linked List Introduction
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Number of 1 Bits | [🔗](#) | [💻](#) |
-| Single Number | [🔗](#) | [💻](#) |
-| Unset i-th bit | [🔗](#) | [💻](#) |
-| Toggle i-th bit | [🔗](#) | [💻](#) |
-| Check bit | [🔗](#) | [💻](#) |
-| Set Bit | [🔗](#) | [💻](#) |
-| Find nth Magic Number | [🔗](#) | [💻](#) |
-| Help From Sam | [🔗](#) | [💻](#) |
-| Finding Good Days | [🔗](#) | [💻](#) |
+| Ref vs Instance 1 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Ref vs Instance 2 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Ref vs Instance 3 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Ref vs Instance 4 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Print Linked List | [🔗](#) | [💻](#) |
+| Ref vs Instance 5 (OOPs Basics) | [🔗](#) | [💻](#) |
+| Ref vs Instance 6 (OOPs Basics) | [🔗](#) | [💻](#) |
+| OOPs in Java (Constructors and Static) 1 | [🔗](#) | [💻](#) |
 
 ---
 
-#### Bit Manipulation 2
+#### Linked List: Basic Problems
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Single Number II | [🔗](#) | [💻](#) |
-| Single Number III | [🔗](#) | [💻](#) |
-| Sum of XOR of all Pairs | [🔗](#) | [💻](#) |
-| Min XOR value | [🔗](#) | [💻](#) |
-| Strange Equality | [🔗](#) | [💻](#) |
-| SUBARRAY OR | [🔗](#) | [💻](#) |
-| Find Two Missing Numbers | [🔗](#) | [💻](#) |
+| Reverse Linked List | [🔗](#) | [💻](#) |
+| Copy List | [🔗](#) | [💻](#) |
+| Insert in Linked List | [🔗](#) | [💻](#) |
+| Delete in Linked List | [🔗](#) | [💻](#) |
+| Remove Duplicates from Sorted List | [🔗](#) | [💻](#) |
+| Remove Nth Node from List End | [🔗](#) | [💻](#) |
+| Reverse Link List II | [🔗](#) | [💻](#) |
+| K reverse linked list | [🔗](#) | [💻](#) |
 
 ---
 
-#### Recursion 1
+#### Stacks 1: Implementation & Basic Problems
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Simple Recursion | [🔗](#) | [💻](#) |
-| Find Factorial | [🔗](#) | [💻](#) |
-| Find Fibonacci - II | [🔗](#) | [💻](#) |
-| Print 1 to A function | [🔗](#) | [💻](#) |
-| Print A to 1 function | [🔗](#) | [💻](#) |
-| Output - 7 | [🔗](#) | [💻](#) |
-| Sum of Digits | [🔗](#) | [💻](#) |
-| Increasing & Decreasing | [🔗](#) | [💻](#) |
+| Evaluate Expression | [🔗](#) | [💻](#) |
+| Balanced Paranthesis | [🔗](#) | [💻](#) |
+| Double Character Trouble | [🔗](#) | [💻](#) |
+| Passing game | [🔗](#) | [💻](#) |
+| Min Stack | [🔗](#) | [💻](#) |
+| Redundant Braces | [🔗](#) | [💻](#) |
+| Check two bracket expressions | [🔗](#) | [💻](#) |
+| Infix to Postfix | [🔗](#) | [💻](#) |
 
 ---
 
-#### Recursion 2
+#### Stacks 2: Nearest Smaller/Greater Element
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Check Palindrome | [🔗](#) | [💻](#) |
-| Tower of Hanoi | [🔗](#) | [💻](#) |
-| All Indices Of Array | [🔗](#) | [💻](#) |
-| Print Array using Recursion | [🔗](#) | [💻](#) |
-| Fast Power | [🔗](#) | [💻](#) |
-| Is Magic? | [🔗](#) | [💻](#) |
-| Max of Array Using Recursion | [🔗](#) | [💻](#) |
-| First Index using Recursion | [🔗](#) | [💻](#) |
-| Last Index using Recursion | [🔗](#) | [💻](#) |
+| Largest Rectangle in Histogram | [🔗](#) | [💻](#) |
+| Nearest Smaller Element | [🔗](#) | [💻](#) |
+| MAX and MIN | [🔗](#) | [💻](#) |
+| Max Rectangle in Binary Matrix | [🔗](#) | [💻](#) |
+| Next Greater | [🔗](#) | [💻](#) |
+| Sort stack using another stack | [🔗](#) | [💻](#) |
 
 ---
 
-#### Maths: Modular Arithmetic & GCD
+#### Queues: Implementation & Problems
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Implement Power Function | [🔗](#) | [💻](#) |
-| Greatest Common Divisor | [🔗](#) | [💻](#) |
-| Pair Sum divisible by M | [🔗](#) | [💻](#) |
-| Largest Coprime Divisor | [🔗](#) | [💻](#) |
-| Divisor game | [🔗](#) | [💻](#) |
-| Mod Sum | [🔗](#) | [💻](#) |
-| A, B and Modulo | [🔗](#) | [💻](#) |
-| Delete one | [🔗](#) | [💻](#) |
+| Parking Ice Cream Truck | [🔗](#) | [💻](#) |
+| Queue Using Stacks | [🔗](#) | [💻](#) |
+| N integers containing 1, 2 & 3 | [🔗](#) | [💻](#) |
+| Unique Letter | [🔗](#) | [💻](#) |
+| Sum of min and max | [🔗](#) | [💻](#) |
 
 ---
 
-#### Hashing 1 Introduction
+#### Trees 1: Structure & Traversal
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Frequency of element query | [🔗](#) | [💻](#) |
-| Count distinct elements | [🔗](#) | [💻](#) |
-| First Repeating element | [🔗](#) | [💻](#) |
-| Sub-array with 0 sum | [🔗](#) | [💻](#) |
-| Common Elements | [🔗](#) | [💻](#) |
-| Count unique elements | [🔗](#) | [💻](#) |
-| Count Subarray Zero Sum | [🔗](#) | [💻](#) |
+| Inorder Traversal | [🔗](#) | [💻](#) |
+| Preorder Traversal | [🔗](#) | [💻](#) |
+| Path Sum | [🔗](#) | [💻](#) |
+| Equal Tree Partition | [🔗](#) | [💻](#) |
+| Postorder Traversal | [🔗](#) | [💻](#) |
+| Sum binary tree or not | [🔗](#) | [💻](#) |
 
 ---
 
-#### Hashing 2 Problems
+#### Trees 2: Views & Types
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Check Pair Sum | [🔗](#) | [💻](#) |
-| Count Pair Difference | [🔗](#) | [💻](#) |
-| Subarray Sum Equals K | [🔗](#) | [💻](#) |
-| Distinct Numbers in Window | [🔗](#) | [💻](#) |
-| Longest Subarray Zero Sum | [🔗](#) | [💻](#) |
-| Count Pair Sum | [🔗](#) | [💻](#) |
-| Subarray with given sum | [🔗](#) | [💻](#) |
+| Level Order | [🔗](#) | [💻](#) |
+| Binary Tree From Inorder And Postorder | [🔗](#) | [💻](#) |
+| Balanced Binary Tree | [🔗](#) | [💻](#) |
+| Left View of Binary Tree | [🔗](#) | [💻](#) |
+| Binary Tree From Inorder And Preorder | [🔗](#) | [💻](#) |
+| Serialize Binary Tree | [🔗](#) | [💻](#) |
+| Deserialize Binary Tree | [🔗](#) | [💻](#) |
+| Right View of Binary Tree | [🔗](#) | [💻](#) |
 
 ---
 
-#### Sorting 1 Count Sort & Merge Sort
+#### Trees 3: BST
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Merge Two Sorted Arrays | [🔗](#) | [💻](#) |
-| Inversion count in an array | [🔗](#) | [💻](#) |
-| Merge Sort | [🔗](#) | [💻](#) |
-| Smallest Number | [🔗](#) | [💻](#) |
-| Sort by Color | [🔗](#) | [💻](#) |
-| Max Chunks To Make Sorted | [🔗](#) | [💻](#) |
-| Count Sort | [🔗](#) | [💻](#) |
-| Sort subarray with left & right index | [🔗](#) | [💻](#) |
+| Valid Binary Search Tree | [🔗](#) | [💻](#) |
+| Sorted Array To Balanced BST | [🔗](#) | [💻](#) |
+| Delete a node in BST | [🔗](#) | [💻](#) |
+| Search in BST | [🔗](#) | [💻](#) |
+| Two Sum BST | [🔗](#) | [💻](#) |
+| Check for BST with One Child | [🔗](#) | [💻](#) |
+| BST nodes in a range | [🔗](#) | [💻](#) |
 
 ---
 
-#### Sorting 2 Quick Sort & Comparator Problems
+#### DSA Contest 2: Searching, Linked List, Stacks, Queues & Trees
+| Question Summary | YouTube | Source Code |
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Count Intersection | [🔗](#) | [💻](#) |
-| Benjamin And XOR | [🔗](#) | [💻](#) |
-| Decreasing Dishes | [🔗](#) | [💻](#) |
-| Rain Water Trapped | [🔗](#) | [💻](#) |
+| Task Scheduling | [🔗](#) | [💻](#) |
+| Leaset Capacity to Ship | [🔗](#) | [💻](#) |
+| Warmer Temperature | [🔗](#) | [💻](#) |
+| Balanced Binary Tree | [🔗](#) | [💻](#) |
 
 </details>
 ---
