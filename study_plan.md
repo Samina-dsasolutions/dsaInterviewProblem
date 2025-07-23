@@ -388,6 +388,176 @@
 | Balanced Binary Tree | [🔗](#) | [💻](#) |
 
 </details>
+
+### DSA3: Questions List
+
+<details>
+<summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
+
+#### Maths: Combinatorics Basics
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Pascal Triangle | [🔗](#) | [💻](#) |
+| Excel Column Title | [🔗](#) | [💻](#) |
+| Compute nCr % m | [🔗](#) | [💻](#) |
+| Excel Column Number | [🔗](#) | [💻](#) |
+| Number of Digit One | [🔗](#) | [💻](#) |
+| Consecutive Numbers Sum | [🔗](#) | [💻](#) |
+
+---
+
+#### Maths: Prime Numbers
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Sorted Permutation Rank | [🔗](#) | [💻](#) |
+| Count of Divisors | [🔗](#) | [💻](#) |
+| Find All Primes | [🔗](#) | [💻](#) |
+| Prime Sumq | [🔗](#) | [💻](#) |
+| Lucky Numbers | [🔗](#) | [💻](#) |
+| Number of Digit One | [🔗](#) | [💻](#) |
+
+---
+
+#### Two Pointers
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Container With Most Water | [🔗](#) | [💻](#) |
+| Subarray with given sum | [🔗](#) | [💻](#) |
+| Pairs with given sum II | [🔗](#) | [💻](#) |
+| Pairs with Given Difference | [🔗](#) | [💻](#) |
+| 3 Sum | [🔗](#) | [💻](#) |
+| Array 3 Pointers | [🔗](#) | [💻](#) |
+| Max Continuous Series of 1s | [🔗](#) | [💻](#) |
+| Another Count Rectangles | [🔗](#) | [💻](#) |
+| Closest pair from sorted arrays | [🔗](#) | [💻](#) |
+
+---
+
+#### Backtracking 1
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Permutations | [🔗](#) | [💻](#) |
+| Generate all Parentheses II | [🔗](#) | [💻](#) |
+| Generate Subsets | [🔗](#) | [💻](#) |
+| Letter Phone | [🔗](#) | [💻](#) |
+| Kth Symbol - Easy | [🔗](#) | [💻](#) |
+
+---
+
+#### Backtracking 2
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Subset Sum equal to K | [🔗](#) | [💻](#) |
+| Print paths in Staircase | [🔗](#) | [💻](#) |
+| Print All Maze Paths | [🔗](#) | [💻](#) |
+| Kth Symbol - Hard | [🔗](#) | [💻](#) |
+| Shortest path in a Binary Maze with Hurdles | [🔗](#) | [💻](#) |
+
+---
+
+#### Linked List: Sorting and Detecting Loop
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Sort List | [🔗](#) | [💻](#) |
+| Merge Two Sorted Lists | [🔗](#) | [💻](#) |
+| Remove Loop from Linked List | [🔗](#) | [💻](#) |
+| Middle element of linked list | [🔗](#) | [💻](#) |
+| Swap List Nodes in pairs | [🔗](#) | [💻](#) |
+| Reorder List | [🔗](#) | [💻](#) |
+| Add Two Numbers as Lists | [
+
+---
+
+#### Linked List: Problems & Doubly Linked List
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Intersection of Linked Lists | [🔗](#) | [💻](#) |
+| LRU Cache | [🔗](#) | [💻](#) |
+| Palindrome List | [🔗](#) | [💻](#) |
+| Partition List | [🔗](#) | [💻](#) |
+| Longest Palindromic List | [🔗](#) | [💻](#) |
+| Flatten a linked list | [🔗](#) | [💻](#) |
+
+---
+
+#### Trees 4: LCA + Morris Inorder Traversal
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Least Common Ancestor | [🔗](#) | [💻](#) |
+| Kth Smallest Element in BST | [🔗](#) | [💻](#) |
+| LCA in BST | [🔗](#) | [💻](#) |
+| Morris Inorder Traversal | [🔗](#) | [💻](#) |
+| Recover Binary Search Tree | [🔗](#) | [💻](#) |
+| Common Nodes in Two BST | [🔗](#) | [💻](#) |
+| Distance between Nodes of BST | [🔗](#) | [💻](#) |
+
+---
+
+#### Trees 5: Problems on Trees
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Next Pointer Binary Tree | [🔗](#) | [💻](#) |
+| Vertical Order traversal | [🔗](#) | [💻](#) |
+| Top View of Binary Tree | [🔗](#) | [💻](#) |
+| Diameter of Binary Tree | [🔗](#) | [💻](#) |
+| Identical Binary Trees | [🔗](#) | [💻](#) |
+| Invert the Binary Tree | [🔗](#) | [💻](#) |
+
+---
+
+#### Hashing 3: Internal Implementation & Problems
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Longest Subarray Zero Sum | [🔗](#) | [💻](#) |
+| Colorful Number | [🔗](#) | [💻](#) |
+| Count Subarrays | [🔗](#) | [💻](#) |
+| Sort Array in Given Order | [🔗](#) | [💻](#) |
+
+---
+
+#### Problem Solving Session
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Chef and Cooking | [🔗](#) | [💻](#) |
+| Get the Perimeter | [🔗](#) | [💻](#) |
+| Search in row & column wise sorted matrix | [🔗](#) | [💻](#) |
+| Merge Sorted Overlapping Intervals - 2 | [🔗](#) | [💻](#) |
+| Highest Product | [🔗](#) | [💻](#) |
+| B Closest Points to Origin | [🔗](#) | [💻](#) |
+| Rice | [🔗](#) | [💻](#) |
+| Librarian and Rotated array | [🔗](#) | [💻](#) |
+| More letters | [🔗](#) | [💻](#) |
+| Merge Intervals - 2 | [🔗](#) | [💻](#) |
+| Sum of all Submatrices | [🔗](#) | [💻](#) |
+| Mega Sale | [🔗](#) | [💻](#) |
+| Increasing Order words | [🔗](#) | [💻](#) |
+| Find All Pair | [🔗](#) | [💻](#) |
+| Pair of poles | [🔗](#) | [💻](#) |
+| Lower Temperature | [🔗](#) | [💻](#) |
+| Reverse Linked List | [🔗](#) | [💻](#) |
+| Level Order | [🔗](#) | [💻](#) |
+| Serialize Binary Tree | [🔗](#) | [💻](#) |
+| Perfect Line | [🔗](#) | [💻](#) |
+| Checking Assignments | [🔗](#) | [💻](#) |
+| Next Higher Temperature | [🔗](#) | [💻](#) |
+| Next Lower Temperature | [🔗](#) | [💻](#) |
+| Palindrome List | [🔗](#) | [💻](#) |
+| Right View of Binary Tree | [🔗](#) | [💻](#) |
+| Deserialize Binary Tree | [🔗](#) | [💻](#) |
+| Maximum Buildings | [🔗](#) | [💻](#) |
+| Game of Boxes | [🔗](#) | [💻](#) |
+
+---
+
+#### DSA Contest 3: Math, Two Pointers, Backtracking, Linked List & Trees
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Permutations | [🔗](#) | [💻](#) |
+| Special Prime Number | [🔗](#) | [💻](#) |
+| Children and Rides | [🔗](#) | [💻](#) |
+| Flatten Binary Tree to Linkedlist | [🔗](#) | [💻](#) |
+
+</details>
 ---
 
 
