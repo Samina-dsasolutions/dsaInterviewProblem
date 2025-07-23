@@ -74,12 +74,14 @@
 
 ---
   
-# DSA1: Questions List
+## 🔖 Question Bank & Resources
 
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
-### Array 1D
+### 🌟 **DSA1: Questions List**
+
+#### Array 1D
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
@@ -166,6 +168,8 @@
 | Last Index using Recursion | [🔗](#) | [💻](#) |
 
 </details>
+
+---
 
 ## 🔗 **Resources & References**
 
