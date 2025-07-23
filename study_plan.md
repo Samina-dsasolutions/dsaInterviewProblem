@@ -182,8 +182,5 @@
 
 ---
 
-***Note:*** Replace all `[#]` placeholders with your actual links and your content.
-
----
 
 
