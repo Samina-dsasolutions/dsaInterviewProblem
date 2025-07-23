@@ -1,179 +1,149 @@
-# 🚀 Ultimate DSA Study & Progress Roadmap 🏆
+# 🚀 **Ultimate DSA Roadmap & Study Tracker** 🏆
 
 ---
 
-## 🎯 My Learning Milestones
+## 🎯 **My Learning Milestones**
 
-| **Category**        | **Questions** | **Progress Badge** | **Status**                        |
-|---------------------|----------------|--------------------|----------------------------------|
-| **Advance DSA 1**   | 80             | ![75%](https://img.shields.io/badge/Progress-75%25-brightgreen) | 🟢 In Progress / ✅ Done      |
-| **Advance DSA 2**   | 74             | ![50%](https://img.shields.io/badge/Progress-50%25-yellow) | 🟡 In Progress / ⏸️ Pending     |
-| **Advance DSA 3**   | 89             | ![20%](https://img.shields.io/badge/Progress-20%25-red) | 🔴 Pending / 🚧 Starting       |
-| **Advance DSA 4**   | 87             | ![0%](https://img.shields.io/badge/Progress-0%25-gray) | ⚪ Not Started                 |
+| **Category** | **Questions** | **Progress** | **Status** |
+|--------------|----------------|--------------|------------|
+| **Advance DSA 1** | 80 | ![75%](https://img.shields.io/badge/Progress-75%25-brightgreen) | 🟢 In Progress / ✅ Completed |
+| **Advance DSA 2** | 74 | ![50%](https://img.shields.io/badge/Progress-50%25-yellow) | 🟡 In Progress / 🕒 Pending |
+| **Advance DSA 3** | 89 | ![20%](https://img.shields.io/badge/Progress-20%25-red) | 🔴 Pending / 🚧 Starting |
+| **Advance DSA 4** | 87 | ![0%](https://img.shields.io/badge/Progress-0%25-gray) | ⚪ Not Started |
 
-*(Update badges regularly to track your progress)*
-
----
-
-## 📌 Your Topics & Questions
+*(Update these badges frequently to reflect your current progress!)*
 
 ---
 
-### 🥇 DSA1 Summary
+## 📘 **Structured Learning Path**
+
+### **🌱 Stage 1: Foundations**
+- Arrays & Strings 📖
+- Searching & Binary Search 🔍
+- Recursion & Backtracking 🔄
+- Math & Modular Arithmetic 🧮
+- Bit Manipulation ⚙️
+
+> **Goal:** Establish a solid base with easy and medium problems.
+
+---
+
+### **🚀 Stage 2: Intermediate Skills**
+- Hashing & Maps 🗺️
+- Sorting Algorithms & Two Pointers 🔄
+- Dynamic Programming 💡
+- Trees & Graphs 🌳🌐
+- Sliding Window & Sliding Techniques 🔁
+
+> **Goal:** Recognize patterns, optimize solutions, prepare for contests.
+
+---
+
+### **🏁 Stage 3: Advanced & Contest Mastery**
+- Hard DP Problems & Patterns 🧩
+- Greedy Strategies ⚡
+- Advanced Graph Algorithms 🌉
+- Segment Trees, Fenwick Trees
+- Practice in Real Contests 🏅
+
+> **End Goal:** Prepare for interviews, Olympiads, and coding competitions.
+
+---
+
+## 🔖 **Question Bank & Resources**
+
+<details>
+<summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
+
+### 🌟 **DSA1: Questions List**
 
 | Category | Question | YouTube Link | Source Code |
-| -------- | -------- |--------------|--------------|
-| Arrays 1 : One Dimensional | Max Sum Contiguous Subarray | | |
-| Arrays 1 : One Dimensional | Continuous Sum Query | | |
-| Arrays 1 : One Dimensional | Rain Water Trapped | | |
-| Arrays 1 : One Dimensional | Add One To Number | | |
-| Arrays 1 : One Dimensional | Flip | | |
-
-| Arrays 2 : Two Dimensional | Question | | |
-| ---------------------------- | -------- |--------------|--------------|
-| Spiral Order Matrix II | | | |
-| Search in a row and column-wise sorted matrix | | | |
-| Sum of all Submatrices | | | |
-| Minimum Swaps | | | |
-| Row with maximum number of ones | | | |
-
-| Arrays 3 : Interview Problems | Question | | |
-| ------------------------------ | -------- |--------------|--------------|
-| First Missing Integer | | | |
-| Merge Overlapping Intervals - 2 | | | |
-| Merge Intervals - 2 | | | |
-
-| Bit Manipulation 1 | Question | | |
-| ------------------- | -------- |--------------|--------------|
-| Number of 1 Bits | | | |
-| Single Number | | | |
-| Unset i-th bit | | | |
-| Toggle i-th bit | | | |
-| Check bit | | | |
-| Set Bit | | | |
-| Find nth Magic Number | | | |
-| Help From Sam | | | |
-| Finding Good Days | | | |
-
-| Bit Manipulation 2 | Question | | |
-| ------------------- | -------- |--------------|--------------|
-| Single Number II | | | |
-| Single Number III | | | |
-| XOR pairs | | | |
-| Min XOR value | | | |
-| Strange Equality | | | |
-| SUBARRAY OR | | | |
-| Find Two Missing Numbers | | | |
-
-| DSA Recursion 1 | Question | | |
-| --------------- | -------- |--------------|--------------|
-| Simple Recursion | | | |
-| Find Factorial | | | |
-| Fibonacci II | | | |
-| Print 1 to A | | | |
-| Print A to 1 | | | |
-| Output 7 | | | |
-| Sum of Digits | | | |
-| Increasing & Decreasing | | | |
-
-| DSA Recursion 2 | Question | | |
-| --------------- | -------- |--------------|--------------|
-| Check Palindrome | | | |
-| Tower of Hanoi | | | |
-| All Indices of Array | | | |
-| Print Array Recursion | | | |
-| Fast Power | | | |
-| Is Magic? | | | |
-| Max Array via Recursion | | | |
-| First Index via Recursion | | | |
-| Last Index via Recursion | | | |
+|----------|------------|--------------|--------------|
+| Arrays 1 | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
+| Arrays 1 | Continuous Sum Query | [🔗](#) | [💻](#) |
+| Arrays 1 | Rain Water Trapped | [🔗](#) | [💻](#) |
+| Arrays 1 | Add One To Number | [🔗](#) | [💻](#) |
+| Arrays 1 | Flip | [🔗](#) | [💻](#) |
 
 ---
 
-### 📐 Mathematics & GCD
-
-| Question | Name | YouTube Link | Source Code |
-| -------- | ---- |--------------|--------------|
-| Implement Power Function | Modular exponentiation | | |
-| GCD | Greatest Common Divisor | | |
-| Pair Sum divisible by M | | | |
-| Largest Coprime Divisor | | | |
-| Divisor game | | | |
-| Mod Sum | | | |
-| A, B and Modulo | | | |
-| Delete one | | | |
-
----
-
-### 🔑 Hashing & Sliding Window
+### 🌟 **Arrays 2: Questions List**
 
 | Category | Question | YouTube Link | Source Code |
-| -------- | -------- |--------------|--------------|
-| Hashing 1 | Frequency of element query | | |
-| Hashing 1 | Count distinct elements | | |
-| Hashing 1 | First Repeating element | | |
-| Hashing 1 | Sub-array with 0 sum | | |
-| Hashing 1 | Common Elements | | |
-| Hashing 1 | Count unique elements | | |
-| Hashing 1 | Sub-Array with 0 sum (Repeat) | | |
-
-| Hashing 2 | Question | | |
-| --------- | -------- |--------------|--------------|
-| Check Pair Sum | | | |
-| Count Pair Difference | | | |
-| Subarray Sum Equals K | | | |
-| In-Window Unique Numbers | | | |
-| Longest Zero Sum Subarray | | | |
-| Count Pair Sum | | | |
-| Subarray with Given Sum | | | |
+|----------|------------|--------------|--------------|
+| 2D Arrays | Spiral Order Matrix II | [🔗](#) | [💻](#) |
+| 2D Arrays | Search in sorted row & column matrix | [🔗](#) | [💻](#) |
+| 2D Arrays | Sum of all submatrices | [🔗](#) | [💻](#) |
+| 2D Arrays | Minimum Swaps | [🔗](#) | [💻](#) |
+| 2D Arrays | Max row of 1s | [🔗](#) | [💻](#) |
 
 ---
 
-### 🔄 Sorting & Divide & Conquer
+### 🌟 **Interview Problems**
 
-| Question | Name | YouTube Link | Source Code |
-| -------- | ---- |--------------|--------------|
-| Merge Two Sorted Arrays | | | |
-| Count Inversions | | | |
-| Merge Sort | | | |
-| Smallest Number | | | |
-| Sort by Color | | | |
-| Max Chunks to Make Sorted | | | |
-| Count Sort | | | |
-| Sort Range with Left & Right | | | |
+| Question | YouTube | Source Code |
+|----------|---------|--------------|
+| First Missing Integer | [🔗](#) | [💻](#) |
+| Merge Overlapping Intervals | [🔗](#) | [💻](#) |
+| Merge Intervals | [🔗](#) | [💻](#) |
 
 ---
 
-### ⚡ Miscellaneous & Advanced Problems
+### 🌟 **Bit Manipulation**
 
-| Question | Name | YouTube Link | Source Code |
-| -------- | ---- |--------------|--------------|
-| Count Intersection | | | |
-| XOR Problems | | | |
-| Decreasing Dishes | | | |
-| Rain Water Trapped | | | |
-
----
-
-*(Continue adding modules as needed with this same tabular format.)*
+| Question | YouTube | Source Code |
+|----------|---------|--------------|
+| Number of 1 Bits | [🔗](#) | [💻](#) |
+| Single Number (XOR) | [🔗](#) | [💻](#) |
+| Unset i-th bit | [🔗](#) | [💻](#) |
+| Toggle i-th bit | [🔗](#) | [💻](#) |
+| Check bit | [🔗](#) | [💻](#) |
+| Find Nth Magic Number | [🔗](#) | [💻](#) |
 
 ---
 
-## 🚩 Tips & Motivation  
-- Keep your progress up-to-date! ✅ 🚧 ❌  
-- Focus on consistency over intensity. 🌟  
-- Regular revision is key. 🔁  
-- Practice problem solving daily. 📅  
-- Participate in contests for real-world experience. 🏆  
-- Celebrate your milestones. 🎉
+### 🌟 **Recursion & Backtracking**
+
+| Question | YouTube | Source Code |
+|----------|---------|--------------|
+| Basic Recursion | [🔗](#) | [💻](#) |
+| Factorial | [🔗](#) | [💻](#) |
+| Fibonacci | [🔗](#) | [💻](#) |
+| Generate Permutations | [🔗](#) | [💻](#) |
+| Generate Parentheses | [🔗](#) | [💻](#) |
 
 ---
 
-## 🔗 Useful Links
-- YouTube playlists & tutorials: [Your Playlist Links](#)  
-- Source code repository: [Your GitHub Link](#)  
-- Practice platforms: LeetCode, Codeforces, HackerRank, etc.
+<!-- Extend this list as needed with similar tables for other modules -->
+
+</details>
 
 ---
 
-Keep this as your **main markdown document** for tracking, reviewing, and continuous management of your progress! Use or extend it as needed. Would you like me to prepare a downloadable version of this?
+## 🔗 **Resources & References**
+
+- **🔴 YouTube Playlists:** [Add your playlist links here](#)
+- **💻 Code Repositories:** [Link to your GitHub Repo](#)
+- **🌍 Practice Platforms:** [LeetCode](https://leetcode.com), [Codeforces](https://codeforces.com), [HackerRank](https://www.hackerrank.com), [CodeChef](https://www.codechef.com)
+
+---
+
+## 🚀 **Motivation & Tips**
+
+- 💪 Stay consistent, progress daily
+- 📈 Track your progress with badges and emojis
+- 🔁 Revise previous problems weekly
+- 🎯 Participate in contests for real improvement
+- 🎉 Celebrate every milestone!
+
+---
+
+## **🌟 Keep pushing and stay disciplined — Success is near!**
+
+---
+
+***Note:*** Replace all `[#]` placeholders with your actual links and your content.
+
+---
+
+Would you like me to package this in a downloadable `.md` file for you?
