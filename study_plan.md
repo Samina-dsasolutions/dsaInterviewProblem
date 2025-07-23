@@ -89,16 +89,33 @@
 
 ---
 
-### 🌟 **Bit Manipulation**
+### 🌟 **Bit Manipulation 1 **
 
-| Question | YouTube | Source Code |
-|----------|---------|--------------|
+| Question | YouTube Link | Source Code |
+|----------|--------------|--------------|
 | Number of 1 Bits | [🔗](#) | [💻](#) |
-| Single Number (XOR) | [🔗](#) | [💻](#) |
+| Single Number | [🔗](#) | [💻](#) |
 | Unset i-th bit | [🔗](#) | [💻](#) |
 | Toggle i-th bit | [🔗](#) | [💻](#) |
 | Check bit | [🔗](#) | [💻](#) |
-| Find Nth Magic Number | [🔗](#) | [💻](#) |
+| Set Bit | [🔗](#) | [💻](#) |
+| Find nth Magic Number | [🔗](#) | [💻](#) |
+| Help From Sam | [🔗](#) | [💻](#) |
+| Finding Good Days | [🔗](#) | [💻](#) |
+
+---
+
+### 🌟 **Bit Manipulation 2 **
+
+| Question | Summary | YouTube Link | Source Code |
+|----------|---------|--------------|--------------|
+| Single Number II | | [🔗](#) | [💻](#) |
+| Single Number III | | [🔗](#) | [💻](#) |
+| Sum of XOR of all Pairs | | [🔗](#) | [💻](#) |
+| Min XOR value | | [🔗](#) | [💻](#) |
+| Strange Equality | | [🔗](#) | [💻](#) |
+| SUBARRAY OR | | [🔗](#) | [💻](#) |
+| Find Two Missing Numbers | | [🔗](#) | [💻](#) |
 
 ---
 
