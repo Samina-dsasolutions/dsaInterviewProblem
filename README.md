@@ -624,6 +624,71 @@
 
 
 
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+| DSA4                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Heaps 1: Introduction                      |  Connect ropes                                     |                    |                |
+| Heaps 1: Introduction                      |  Build a Heap                                      |                    |                |
+| Heaps 1: Introduction                      |  Heap Queries                                      |                    |                |
+| Heaps 1: Introduction                      |  Maximum array sum after B negations               |                    |                |
+| Heaps 1: Introduction                      |  Misha and Candies                                 |                    |                |
+| Heaps 1: Introduction                      |  Minimum largest element                           |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Heaps 2: Problems                          |  Ath largest element                               |                    |                |
+| Heaps 2: Problems                          |  Running Median                                    |                    |                |
+| Heaps 2: Problems                          |  Ways to form Max Heap                             |                    |                |
+| Heaps 2: Problems                          |  Product of 3                                      |                    |                |
+| Heaps 2: Problems                          |  Kth Smallest Element in a Sorted Matrix           |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Interview Problems                         |  Shaggy and distances                              |                    |                |
+| Interview Problems                         |  K Places Apart                                    |                    |                |
+| Interview Problems                         |  Merge K Sorted Lists                              |                    |                |
+| Interview Problems                         |  Meeting Rooms II                                  |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                                   | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
+| Greedy                                     |  Shaggy and distances                              |                    |                |
+
+
+
 
 
 
