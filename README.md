@@ -683,11 +683,217 @@
 
 
 
-| DSA4                                       | question summery                                   | youtube link       | Sourse Code    |
-|--------------------------------------------| ---------------------------------------------------|  -------------     |----------------|
-| Greedy                                     |  Shaggy and distances                              |                    |                |
+| DSA4                                       | question summery                                         | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------------|  -------------     |----------------|
+| Greedy                                     |  Flipkart's Challenge in Effective Inventory Management  |                    |                |
+| Greedy                                     |  Finish Maximum Jobs                                     |                    |                |
+| Greedy                                     |  Distribute Candy                                        |                    |                |
+| Greedy                                     |  Another Coin Problem                                    |                    |                |
+| Greedy                                     |  Seats                                                   |                    |                |
+| Greedy                                     |  Assign Mice to Holes                                    |                    |                |
 
 
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                 | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------|  -------------     |----------------|
+| Heaps 2: Problems                          |   Running Median                 |                    |                |
+| Heaps 2: Problems                          |   Finish Maximum Jobs            |                    |                |            
+| Heaps 2: Problems                          |   Seats                          |                    |                |
+| Heaps 2: Problems                          |   Assign Mice to Holes           |                    |                |
+| Heaps 2: Problems                          |   Ways to form Max Heap          |                    |                |
+| Heaps 2: Problems                          |   Another Coin Problem           |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                                         | youtube link       | Sourse Code    |
+|--------------------------------------------| ---------------------------------------------------------|  -------------     |----------------|
+| Lab Session on Heaps & Greedy              |  Distribute Candy                                        |                    |                |
+| Lab Session on Heaps & Greedy              |  Merge K Sorted Lists                                    |                    |                |
+| Lab Session on Heaps & Greedy              |  Ath largest element                                     |                    |                |
+| Lab Session on Heaps & Greedy              |  Flipkart's Challenge in Effective Inventory Management  |                    |                |
+| Lab Session on Heaps & Greedy              |  Product of 3                                            |                    |                |
+| Lab Session on Heaps & Greedy              |  Kth Smallest Element in a Sorted Matrix                 |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                     | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------|  -------------     |----------------|
+| Lab Session on Interview Problems 1        |  Shaggy and distances                |                    |                |
+| Lab Session on Interview Problems 1        |  K Places Apart                      |                    |                |
+| Lab Session on Interview Problems 1        |  Meeting Rooms II                    |                    |                |
+| Lab Session on Interview Problems 1        |  Minimum Window Substring            |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                     | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------|  -------------     |----------------|
+| DP 1: One Dimensional                      |  Stairs                              |                    |                |
+| DP 1: One Dimensional                      |  Minimum Number of Squares           |                    |                |
+| DP 1: One Dimensional                      |  Fibonacci Number                    |                    |                |
+| DP 1: One Dimensional                      |  Max Product Subarray                |                    |                |
+| DP 1: One Dimensional                      |  Maximum Sum Value                   |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| DP 2: Two Dimensional                      |  Unique Paths in a Grid                    |                    |                |
+| DP 2: Two Dimensional                      |  Unique Binary Search Trees II             |                    |                |
+| DP 2: Two Dimensional                      |  Max Sum Without Adjacent Elements         |                    |                |
+| DP 2: Two Dimensional                      |  N digit numbers                           |                    |                |
+| DP 2: Two Dimensional                      |  Max Rectangle in Binary Matrix            |                    |                |
+| DP 2: Two Dimensional                      |  Min Sum Path in Matrix                    |                    |                |
+| DP 2: Two Dimensional                      |  Min Sum Path in Triangle                  |                    |                |
+| DP 2: Two Dimensional                      |  Intersecting Chords in a Circle           |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                           | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------|  -------------     |----------------|
+| DP 3: Knapsack                             |  0-1 Knapsack                              |                    |                |
+| DP 3: Knapsack                             |  Unbounded Knapsack                        |                    |                |
+| DP 3: Knapsack                             |  Fractional Knapsack                       |                    |                |
+| DP 3: Knapsack                             |  Tushar's Birthday Party                   |                    |                |
+| DP 3: Knapsack                             |  Ways to send the signal                   |                    |                |
+| DP 3: Knapsack                             |  Buying Candies                            |                    |                |
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                       | question summery                                | youtube link       | Sourse Code    |
+|--------------------------------------------| ------------------------------------------------|  -------------     |----------------|
+| Lab Session on Applications of Knapsack    |  Coin Sum Infinite                              |                    |                |
+| Lab Session on Applications of Knapsack    |  Cutting a Rod                                  |                    |                |
+| Lab Session on Applications of Knapsack    |  0-1 Knapsack II                                |                    |                |
+| Lab Session on Applications of Knapsack    |  Distinct Subsequences                          |                    |                |
+| Lab Session on Applications of Knapsack    |  Let's Party                                    |                    |                |
+| Lab Session on Applications of Knapsack    |  Length of Longest Fibonacci Subsequence        |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                           | question summery                       | youtube link       | Sourse Code    |
+|------------------------------------------------| ---------------------------------------|  -------------     |----------------|
+| Graphs 1: Introduction, DFS & Cycle Detection  |  Cycle in Directed Graph               |                    |                |
+| Graphs 1: Introduction, DFS & Cycle Detection  |  Path in Directed Graph                |                    |                |
+| Graphs 1: Introduction, DFS & Cycle Detection  |  First Depth First Search              |                    |                |
+| Graphs 1: Introduction, DFS & Cycle Detection  |  Maximum Depth                         |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                           | question summery                       | youtube link       | Sourse Code    |
+|------------------------------------------------| ---------------------------------------|  -------------     |----------------|
+| Graphs 2: BFS & MST                            |   Commutable Islands                   |                    |                |
+| Graphs 2: BFS & MST                            |   Rotten Oranges                       |                    |                |
+| Graphs 2: BFS & MST                            |   Construction Cost                    |                    |                |
+| Graphs 2: BFS & MST                            |   Capture Regions on Board             |                    |                |
+| Graphs 2: BFS & MST                            |   Black Shapes                         |                    |                |
+| Graphs 2: BFS & MST                            |   Knight On Chess Board                |                    |                |
+| Graphs 2: BFS & MST                            |   Damaged Roads                        |                    |                |
+| Graphs 2: BFS & MST                            |   Edge in MST                          |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                           | question summery                            | youtube link       | Sourse Code    |
+|------------------------------------------------| --------------------------------------------|  -------------     |----------------|
+| Graphs 3: Dijkstra Algo & Topological Sort     |  Possibility of Finishing                   |                    |                |
+| Graphs 3: Dijkstra Algo & Topological Sort     |  Dijkstra                                   |                    |                |
+| Graphs 3: Dijkstra Algo & Topological Sort     |  Another BFS                                |                    |                |
+| Graphs 3: Dijkstra Algo & Topological Sort     |  Topological Sort                           |                    |                |
+| Graphs 3: Dijkstra Algo & Topological Sort     |  Ways to Decode                             |                    |                |
+| Graphs 3: Dijkstra Algo & Topological Sort     |  Largest Distance between nodes of a Tree   |                    |                |
+| Graphs 3: Dijkstra Algo & Topological Sort     |  Flip Array                                 |                    |                |
+| Graphs 3: Dijkstra Algo & Topological Sort     |  Perfect Numbers                            |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                           | question summery                            | youtube link       | Sourse Code    |
+|------------------------------------------------| --------------------------------------------|  -------------     |----------------|
+| Lab Session on Interview Problems 2           |  Best Time to Buy and Sell Stocks II        |                    |                |
+| Lab Session on Interview Problems 2           |  Shortest Distance in a Maze                |                    |                |
+| Lab Session on Interview Problems 2           |  Number of islands                          |                    |                |
+| Lab Session on Interview Problems 2           |  Jump Game 2                                |                    |                |
+| Lab Session on Interview Problems 2           |  Valid Path                                 |                    |                |
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA4                                           | question summery                    | youtube link       | Sourse Code    |
+|------------------------------------------------| ------------------------------------|  -------------     |----------------|
+| DSA Contest 4: Heaps, Greedy, DP & Graphs      |  Magical Bridge                     |                    |                |
+| DSA Contest 4: Heaps, Greedy, DP & Graphs      |  Strenthen it                       |                    |                |            
+| DSA Contest 4: Heaps, Greedy, DP & Graphs      |  Minimum Number of Squere           |                    |                |
+| DSA Contest 4: Heaps, Greedy, DP & Graphs      |  bon and chocolates                 |                    |                |
 
 
 
