@@ -2,7 +2,7 @@
 | -------------   | -------------  | 
 | Advance DSA 1   |    80          | 
 | Advance DSA 2   |    74          |
-| Advance DSA 3   |                |
+| Advance DSA 3   |    89          |
 | Advance DSA 4   |                |
 
 ------------------------------------------------------------------------------------------------------------
@@ -605,6 +605,47 @@
 | Hashing 3: Internal Implementation & Problems |  Colorful Number                                   |                    |                |
 | Hashing 3: Internal Implementation & Problems |  Count Subarrays                                   |                    |                |
 | Hashing 3: Internal Implementation & Problems |  Sort Array in given Order                         |                    |                |
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+| DSA3                                       | question summery                                       | youtube link       | Sourse Code    |
+|--------------------------------------------| -------------------------------------------------------|  -------------     |----------------|
+| Problem Solving Session                    |  Chef and Cooking                                      |                    |                |
+| Problem Solving Session                    |  Get the Perimeter                                     |                    |                |
+| Problem Solving Session                    |  Search in a row wise and column wise sorted matrix    |                    |                |
+| Problem Solving Session                    |  Merge Sorted Overlapping Intervals - 2                |                    |                |
+| Problem Solving Session                    |  Highest Product                                       |                    |                |
+| Problem Solving Session                    |  B Closest Points to Origin                            |                    |                |
+| Problem Solving Session                    |  Rice                                                  |                    |                |
+| Problem Solving Session                    |  Librarian and Rotated array                           |                    |                |
+| Problem Solving Session                    |  More letters                                          |                    |                |
+| Problem Solving Session                    |  Merge Intervals - 2                                   |                    |                |
+| Problem Solving Session                    |  Sum of all Submatrices                                |                    |                |
+| Problem Solving Session                    |  Mega Sale                                             |                    |                |
+| Problem Solving Session                    |  Increasing Order words                                |                    |                |
+| Problem Solving Session                    |  Find All Pair                                         |                    |                |
+| Problem Solving Session                    |  Pair of poles                                         |                    |                |        
+| Problem Solving Session                    |  Lower Temperature                                     |                    |                |
+| Problem Solving Session                    |  Reverse Linked List                                   |                    |                |
+| Problem Solving Session                    |  Level Order                                           |                    |                |
+| Problem Solving Session                    |  Serialize Binary Tree                                 |                    |                |
+| Problem Solving Session                    |  Perfect Line                                          |                    |                |
+| Problem Solving Session                    |  Checking Assignments                                  |                    |                |
+| Problem Solving Session                    |  Next Higher Temperature                               |                    |                |
+| Problem Solving Session                    |  Next Lower Temperature                                |                    |                |
+| Problem Solving Session                    |  Palindrome List                                       |                    |                |
+| Problem Solving Session                    |  Right View of Binary tree                             |                    |                |
+| Problem Solving Session                    |  Deserialize Binary Tree                               |                    |                |
+| Problem Solving Session                    |  Maximum buildings                                     |                    |                |
+| Problem Solving Session                    |  Game of Boxes                                         |                    |                |
+
 
 
 
