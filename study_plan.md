@@ -75,15 +75,14 @@
   
 ## 🔖 **Question Bank & Resources**
 
+# DSA1: Questions List
+
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
-### 🌟 **DSA1: Questions List**
-
-#### Array 1 : One Dimensional
-
-| Question Summary | YouTube Link | Source Code |
-|--------------------|--------------|--------------|
+### Arrays 1D
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
 | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
 | Continuous Sum Query | [🔗](#) | [💻](#) |
 | Rain Water Trapped | [🔗](#) | [💻](#) |
@@ -92,10 +91,9 @@
 
 ---
 
-#### Arrays 2: Two Dimensional**
-
-| Question Summary | YouTube Link | Source Code |
-|--------------------|--------------|--------------|
+### Arrays 2D
+| Question Summary | YouTube | Source Code |
+|------------------------|---------|--------------|
 | Spiral Order Matrix II | [🔗](#) | [💻](#) |
 | Search in sorted row & column matrix | [🔗](#) | [💻](#) |
 | Sum of all submatrices | [🔗](#) | [💻](#) |
@@ -104,8 +102,7 @@
 
 ---
 
-####  Interview Problems**
-
+### Interview Problems
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | First Missing Integer | [🔗](#) | [💻](#) |
@@ -114,8 +111,7 @@
 
 ---
 
-####   Bit Manipulation 1 **
-
+### Bit Manipulation 1
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Number of 1 Bits | [🔗](#) | [💻](#) |
@@ -130,8 +126,7 @@
 
 ---
 
-####    Bit Manipulation 2 **
-
+### Bit Manipulation 2
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Single Number II | [🔗](#) | [💻](#) |
@@ -142,10 +137,9 @@
 | SUBARRAY OR | [🔗](#) | [💻](#) |
 | Find Two Missing Numbers | [🔗](#) | [💻](#) |
 
---- 
+---
 
-####    Recursion 1 **
-
+### Recursion 1
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Simple Recursion | [🔗](#) | [💻](#) |
@@ -154,96 +148,23 @@
 | Print 1 to A function | [🔗](#) | [💻](#) |
 | Print A to 1 function | [🔗](#) | [💻](#) |
 | Output - 7 | [🔗](#) | [💻](#) |
-| Sum of Digits! | [🔗](#) | [💻](#) |
-| Increasing & Decreasing in one Function | [🔗](#) | [💻](#) |
+| Sum of Digits | [🔗](#) | [💻](#) |
+| Increasing & Decreasing | [🔗](#) | [💻](#) |
 
 ---
 
-####    Recursion 2 **
-
+### Recursion 2
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Check Palindrome using Recursion | [🔗](#) | [💻](#) |
+| Check Palindrome | [🔗](#) | [💻](#) |
 | Tower of Hanoi | [🔗](#) | [💻](#) |
-| All Indices Of Array | [🔗](#) | [💻](#) |
+| All Indices of Array | [🔗](#) | [💻](#) |
 | Print Array using Recursion | [🔗](#) | [💻](#) |
 | Fast Power | [🔗](#) | [💻](#) |
 | Is Magic? | [🔗](#) | [💻](#) |
 | Max of Array Using Recursion | [🔗](#) | [💻](#) |
 | First Index using Recursion | [🔗](#) | [💻](#) |
 | Last Index using Recursion | [🔗](#) | [💻](#) |
-
----
-
-####    Maths: Modular Arithmetic & GCD **
-
-| Question Summary | YouTube | Source Code |
-|--------------------|---------|--------------|
-| Implement Power Function | [🔗](#) | [💻](#) |
-| Greatest Common Divisor | [🔗](#) | [💻](#) |
-| Pair Sum divisible by M | [🔗](#) | [💻](#) |
-| Largest Coprime Divisor | [🔗](#) | [💻](#) |
-| Divisor game | [🔗](#) | [💻](#) |
-| Mod Sum | [🔗](#) | [💻](#) |
-| A, B and Modulo | [🔗](#) | [💻](#) |
-| Delete one | [🔗](#) | [💻](#) |
-
----
-
-####    Hashing 1 Introduction **
-
-| Question Summary | YouTube | Source Code |
-|--------------------|---------|--------------|
-| Frequency of element query | [🔗](#) | [💻](#) |
-| Count distinct elements | [🔗](#) | [💻](#) |
-| First Repeating element | [🔗](#) | [💻](#) |
-| Sub-array with 0 sum | [🔗](#) | [💻](#) |
-| Common Elements | [🔗](#) | [💻](#) |
-| Count unique elements | [🔗](#) | [💻](#) |
-| Count Subarray Zero Sum | [🔗](#) | [💻](#) |
-
----
-
-####    Hashing 2 Problems **
-
-| Question Summary | YouTube | Source Code |
-|--------------------|---------|--------------|
-| Check Pair Sum | [🔗](#) | [💻](#) |
-| Count Pair Difference | [🔗](#) | [💻](#) |
-| Subarray Sum Equals K | [🔗](#) | [💻](#) |
-| Distinct Numbers in Window | [🔗](#) | [💻](#) |
-| Longest Subarray Zero Sum | [🔗](#) | [💻](#) |
-| Count Pair Sum | [🔗](#) | [💻](#) |
-| Subarray with Given Sum | [🔗](#) | [💻](#) |
-
----
-
-####    Sorting 1 Count Sort & Merge Sort **
-
-| Question Summary | YouTube | Source Code |
-|--------------------|---------|--------------|
-| Merge Two Sorted Arrays | [🔗](#) | [💻](#) |
-| Inversion count in an array | [🔗](#) | [💻](#) |
-| Merge Sort | [🔗](#) | [💻](#) |
-| Smallest Number | [🔗](#) | [💻](#) |
-| Sort by Color | [🔗](#) | [💻](#) |
-| Max Chunks To Make Sorted | [🔗](#) | [💻](#) |
-| Count Sort | [🔗](#) | [💻](#) |
-| Sort subarray with left and right indices | [🔗](#) | [💻](#) |
-
----
-
-####    Sorting 2 Quick Sort & Comparator Problems **
-
-| Question Summary | YouTube | Source Code |
-|--------------------|---------|--------------|
-| Count Intersection | [🔗](#) | [💻](#) |
-| Benjamin And XOR | [🔗](#) | [💻](#) |
-| Decreasing Dishes | [🔗](#) | [💻](#) |
-| Rain Water Trapped | [🔗](#) | [💻](#) |
-
----
-<!-- Extend this list as needed with similar tables for other modules -->
 
 </details>
 
