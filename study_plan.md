@@ -81,42 +81,43 @@
 ### 🌟 **DSA1: Questions List**
 
 #### Array 1 : One Dimensional
-| DSA1 | Question Summary | YouTube Link | Source Code |
-|-------|--------------------|--------------|--------------|
-| Arrays 1 : One Dimensional | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
-| Arrays 1 : One Dimensional | Continuous Sum Query | [🔗](#) | [💻](#) |
-| Arrays 1 : One Dimensional | Rain Water Trapped | [🔗](#) | [💻](#) |
-| Arrays 1 : One Dimensional | Add One To Number | [🔗](#) | [💻](#) |
-| Arrays 1 : One Dimensional | Flip | [🔗](#) | [💻](#) |
+
+| Question Summary | YouTube Link | Source Code |
+|--------------------|--------------|--------------|
+| Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
+| Continuous Sum Query | [🔗](#) | [💻](#) |
+| Rain Water Trapped | [🔗](#) | [💻](#) |
+| Add One To Number | [🔗](#) | [💻](#) |
+| Flip | [🔗](#) | [💻](#) |
 
 ---
 
-### 🌟 **Arrays 2: Two Dimensional**
+#### Arrays 2: Two Dimensional**
 
-| Category | Question | YouTube Link | Source Code |
-|----------|------------|--------------|--------------|
-| 2D Arrays | Spiral Order Matrix II | [🔗](#) | [💻](#) |
-| 2D Arrays | Search in sorted row & column matrix | [🔗](#) | [💻](#) |
-| 2D Arrays | Sum of all submatrices | [🔗](#) | [💻](#) |
-| 2D Arrays | Minimum Swaps | [🔗](#) | [💻](#) |
-| 2D Arrays | Max row of 1s | [🔗](#) | [💻](#) |
+| Question Summary | YouTube Link | Source Code |
+|--------------------|--------------|--------------|
+| Spiral Order Matrix II | [🔗](#) | [💻](#) |
+| Search in sorted row & column matrix | [🔗](#) | [💻](#) |
+| Sum of all submatrices | [🔗](#) | [💻](#) |
+| Minimum Swaps | [🔗](#) | [💻](#) |
+| Max row of 1s | [🔗](#) | [💻](#) |
 
 ---
 
-### 🌟 **Interview Problems**
+####  Interview Problems**
 
-| Question | YouTube | Source Code |
-|----------|---------|--------------|
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
 | First Missing Integer | [🔗](#) | [💻](#) |
 | Merge Overlapping Intervals | [🔗](#) | [💻](#) |
 | Merge Intervals | [🔗](#) | [💻](#) |
 
 ---
 
-### 🌟 **Bit Manipulation 1 **
+####   Bit Manipulation 1 **
 
-| Question | YouTube Link | Source Code |
-|----------|--------------|--------------|
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
 | Number of 1 Bits | [🔗](#) | [💻](#) |
 | Single Number | [🔗](#) | [💻](#) |
 | Unset i-th bit | [🔗](#) | [💻](#) |
@@ -129,32 +130,119 @@
 
 ---
 
-### 🌟 **Bit Manipulation 2 **
+####    Bit Manipulation 2 **
 
-| Question | Summary | YouTube Link | Source Code |
-|----------|---------|--------------|--------------|
-| Single Number II | | [🔗](#) | [💻](#) |
-| Single Number III | | [🔗](#) | [💻](#) |
-| Sum of XOR of all Pairs | | [🔗](#) | [💻](#) |
-| Min XOR value | | [🔗](#) | [💻](#) |
-| Strange Equality | | [🔗](#) | [💻](#) |
-| SUBARRAY OR | | [🔗](#) | [💻](#) |
-| Find Two Missing Numbers | | [🔗](#) | [💻](#) |
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Single Number II | [🔗](#) | [💻](#) |
+| Single Number III | [🔗](#) | [💻](#) |
+| Sum of XOR of all Pairs | [🔗](#) | [💻](#) |
+| Min XOR value | [🔗](#) | [💻](#) |
+| Strange Equality | [🔗](#) | [💻](#) |
+| SUBARRAY OR | [🔗](#) | [💻](#) |
+| Find Two Missing Numbers | [🔗](#) | [💻](#) |
 
 --- 
 
-### 🌟 **Recursion & Backtracking**
+####    Recursion 1 **
 
-| Question | YouTube | Source Code |
-|----------|---------|--------------|
-| Basic Recursion | [🔗](#) | [💻](#) |
-| Factorial | [🔗](#) | [💻](#) |
-| Fibonacci | [🔗](#) | [💻](#) |
-| Generate Permutations | [🔗](#) | [💻](#) |
-| Generate Parentheses | [🔗](#) | [💻](#) |
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Simple Recursion | [🔗](#) | [💻](#) |
+| Find Factorial | [🔗](#) | [💻](#) |
+| Find Fibonacci - II | [🔗](#) | [💻](#) |
+| Print 1 to A function | [🔗](#) | [💻](#) |
+| Print A to 1 function | [🔗](#) | [💻](#) |
+| Output - 7 | [🔗](#) | [💻](#) |
+| Sum of Digits! | [🔗](#) | [💻](#) |
+| Increasing & Decreasing in one Function | [🔗](#) | [💻](#) |
 
 ---
 
+####    Recursion 2 **
+
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Check Palindrome using Recursion | [🔗](#) | [💻](#) |
+| Tower of Hanoi | [🔗](#) | [💻](#) |
+| All Indices Of Array | [🔗](#) | [💻](#) |
+| Print Array using Recursion | [🔗](#) | [💻](#) |
+| Fast Power | [🔗](#) | [💻](#) |
+| Is Magic? | [🔗](#) | [💻](#) |
+| Max of Array Using Recursion | [🔗](#) | [💻](#) |
+| First Index using Recursion | [🔗](#) | [💻](#) |
+| Last Index using Recursion | [🔗](#) | [💻](#) |
+
+---
+
+####    Maths: Modular Arithmetic & GCD **
+
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Implement Power Function | [🔗](#) | [💻](#) |
+| Greatest Common Divisor | [🔗](#) | [💻](#) |
+| Pair Sum divisible by M | [🔗](#) | [💻](#) |
+| Largest Coprime Divisor | [🔗](#) | [💻](#) |
+| Divisor game | [🔗](#) | [💻](#) |
+| Mod Sum | [🔗](#) | [💻](#) |
+| A, B and Modulo | [🔗](#) | [💻](#) |
+| Delete one | [🔗](#) | [💻](#) |
+
+---
+
+####    Hashing 1 Introduction **
+
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Frequency of element query | [🔗](#) | [💻](#) |
+| Count distinct elements | [🔗](#) | [💻](#) |
+| First Repeating element | [🔗](#) | [💻](#) |
+| Sub-array with 0 sum | [🔗](#) | [💻](#) |
+| Common Elements | [🔗](#) | [💻](#) |
+| Count unique elements | [🔗](#) | [💻](#) |
+| Count Subarray Zero Sum | [🔗](#) | [💻](#) |
+
+---
+
+####    Hashing 2 Problems **
+
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Check Pair Sum | [🔗](#) | [💻](#) |
+| Count Pair Difference | [🔗](#) | [💻](#) |
+| Subarray Sum Equals K | [🔗](#) | [💻](#) |
+| Distinct Numbers in Window | [🔗](#) | [💻](#) |
+| Longest Subarray Zero Sum | [🔗](#) | [💻](#) |
+| Count Pair Sum | [🔗](#) | [💻](#) |
+| Subarray with Given Sum | [🔗](#) | [💻](#) |
+
+---
+
+####    Sorting 1 Count Sort & Merge Sort **
+
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Merge Two Sorted Arrays | [🔗](#) | [💻](#) |
+| Inversion count in an array | [🔗](#) | [💻](#) |
+| Merge Sort | [🔗](#) | [💻](#) |
+| Smallest Number | [🔗](#) | [💻](#) |
+| Sort by Color | [🔗](#) | [💻](#) |
+| Max Chunks To Make Sorted | [🔗](#) | [💻](#) |
+| Count Sort | [🔗](#) | [💻](#) |
+| Sort subarray with left and right indices | [🔗](#) | [💻](#) |
+
+---
+
+####    Sorting 2 Quick Sort & Comparator Problems **
+
+| Question Summary | YouTube | Source Code |
+|--------------------|---------|--------------|
+| Count Intersection | [🔗](#) | [💻](#) |
+| Benjamin And XOR | [🔗](#) | [💻](#) |
+| Decreasing Dishes | [🔗](#) | [💻](#) |
+| Rain Water Trapped | [🔗](#) | [💻](#) |
+
+---
 <!-- Extend this list as needed with similar tables for other modules -->
 
 </details>
