@@ -73,14 +73,12 @@
 - DSA Contest 4: Heaps, Greedy, DP & Graphs 🏆
 
   
-## 🔖 **Question Bank & Resources**
-
 # DSA1: Questions List
 
 <details>
 <summary style="font-weight:bold; font-size:20px;">Click to expand questions list</summary>
 
-### Arrays 1D
+### Array 1D
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
@@ -158,7 +156,7 @@
 |--------------------|---------|--------------|
 | Check Palindrome | [🔗](#) | [💻](#) |
 | Tower of Hanoi | [🔗](#) | [💻](#) |
-| All Indices of Array | [🔗](#) | [💻](#) |
+| All Indices Of Array | [🔗](#) | [💻](#) |
 | Print Array using Recursion | [🔗](#) | [💻](#) |
 | Fast Power | [🔗](#) | [💻](#) |
 | Is Magic? | [🔗](#) | [💻](#) |
@@ -167,8 +165,6 @@
 | Last Index using Recursion | [🔗](#) | [💻](#) |
 
 </details>
-
----
 
 ## 🔗 **Resources & References**
 
