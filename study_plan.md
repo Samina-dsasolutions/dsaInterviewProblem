@@ -81,7 +81,7 @@
 ### 🌟 **DSA1: Questions List**
 
 | Category | Question | YouTube Link | Source Code |
-|----------|------------|--------------|--------------|
+|----------|----------|--------------|--------------|
 | Arrays 1 | Max Sum Contiguous Subarray | [🔗](#) | [💻](#) |
 | Arrays 1 | Continuous Sum Query | [🔗](#) | [💻](#) |
 | Arrays 1 | Rain Water Trapped | [🔗](#) | [💻](#) |
