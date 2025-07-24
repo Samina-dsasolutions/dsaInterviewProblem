@@ -2,43 +2,42 @@
 
 ---
 
-## 1. Overview
-This section provides a brief introduction and overview of the problem, including its significance and the objective.
+## 1. Introduction
+Efficiently determining the maximum sum of any contiguous subarray is a classic problem in computer science and algorithm design. This problem has widespread applications in finance, data analysis, and other fields requiring optimal sub-structure analysis.
 
-*You can find the detailed problem description [here](max_subarray_problem.md).*
-
----
-
-## 2. Problem Description
-*This section will contain the full problem statement, constraints, input/output format, and examples.*
-
-*To view the complete problem details, refer to the [full description](max_subarray_problem.md).*
+*For complete problem details, please refer to the [Full Problem Statement](max_subarray_problem.md).*
 
 ---
 
-## 3. Approach
-*This part highlights the key strategies and hints used to solve the problem efficiently.*
+## 2. Problem Overview
+- **Objective:**  
+  Find the contiguous subarray within an array `A` that has the largest sum.
+
+- **Significance:**  
+  This problem demonstrates fundamental algorithmic techniques and optimizations such as Kadane’s Algorithm.
+
+- **Use Cases:**  
+  Financial trend analysis, anomaly detection, resource allocation, etc.
+
+*More comprehensive description available [here](max_subarray_problem.md).*
 
 ---
 
-## 4. Implementation
-*Sample code snippets or pseudocode can be included here if needed.*
+## 3. Key Insights & Approach
+*This section offers an overview of the strategic approach to solving this problem—details to be elaborated in the Approach section or in implementation.*
+
+*(This part is reserved for high-level hints, conceptual understanding, and algorithmic ideas.)*
 
 ---
 
-## 5. Examples & Explanation
-*Provide sample inputs and expected outputs with detailed explanations to clarify the approach.*
+## 4. Implementation Details
+*Sample code, pseudocode, or reference implementation can be provided here, formatted professionally.*
 
----
-
-## 6. Additional Notes
-*Any supplementary information, edge cases, or references.*
-
----
-
-## 7. References
-- Link to external resources or documentation (if any).
-
----
-
-*Note:* Replace `max_subarray_problem.md` with the actual filename/path of your detailed problem description page. This structure is designed to be professional and suitable for inclusion in your repository or documentation site.
+```python
+def max_subarray_sum(A):
+    max_sum = float('-inf')
+    current_sum = 0
+    for num in A:
+        current_sum = max(num, current_sum + num)
+        max_sum = max(max_sum, current_sum)
+    return max_sum
