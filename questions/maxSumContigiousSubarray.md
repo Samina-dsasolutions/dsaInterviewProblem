@@ -41,7 +41,8 @@ Given an array `A` of length `N`, your task is to find the **maximum possible su
 **Input:**
 ```plaintext
 A = [1, 2, 3, 4, -10]
+```
+# 📝 Problem Solutions
 
 
-# 🚀 Soultions
----------------
+
