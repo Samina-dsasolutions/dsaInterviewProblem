@@ -2,47 +2,42 @@
 
 ---
 
-## 🔍 Introduction
-The **Maximum Subarray Problem** is a fundamental challenge in computer science, focusing on identifying the contiguous subarray within a given array that has the highest possible sum. This problem showcases core algorithmic techniques and serves as a building block for more complex solutions in data science, finance, and optimization.
+## 🚀 Introduction
 
-> **For an in-depth understanding of the problem, please see the full problem statement [here](max_subarray_problem.md).**
+The **Maximum Subarray Sum** problem is a classic challenge in computer science, demonstrating the power of efficient algorithms such as Kadane’s Algorithm. Your goal is to identify the subarray with the highest sum within a given array.
 
----
-
-## 📌 Problem Overview
-- **Goal:**  
-  To find the subarray with the maximum sum among all contiguous subarrays of array `A`.
-
-- **Why It Matters:**  
-  The problem exemplifies efficient algorithm design using techniques like Kadane’s Algorithm, enabling solutions for large datasets within optimal time complexity.
-
-- **Applications:**  
-  - Financial profit/loss windows  
-  - Signal processing analysis  
-  - Time-series anomaly detection
-
-> **Complete problem details are available at [here](max_subarray_problem.md).**
+*Use hints to develop your solution. Complete solution approaches are penalty-free!*
 
 ---
 
-## ⚡ Key Insights & Strategy
-This section briefly introduces the core concepts and the strategic approach for an optimal solution:
-- Linear traversal with continuous tracking of current subarray sum
-- Dynamic comparison to update maximum sum found so far
-- Robust handling of negative values within the array
+## 📝 Problem Description
 
-*Detailed discussion and step-by-step reasoning are elaborated in the approach section or in the implementation segment.*
+Given an array `A` of length `N`, your task is to find the **maximum possible sum** of any **non-empty contiguous subarray**.
 
 ---
 
-## 🛠 Implementation Snippet
-Below is a clean, well-formatted Python implementation:
+## ⚙️ Problem Constraints
 
-```python
-def max_subarray_sum(A):
-    max_sum = float('-inf')
-    current_sum = 0
-    for num in A:
-        current_sum = max(num, current_sum + num)
-        max_sum = max(max_sum, current_sum)
-    return max_sum
+- **Array size:** `1 <= N <= 10^6`
+- **Element range:** `-1000 <= A[i] <= 1000`
+
+---
+
+## 📝 Input Format
+
+- The input consists of a single array `A`.
+
+---
+
+## 📤 Output Format
+
+- Return an integer representing the maximum sum of any contiguous subarray.
+
+---
+
+## 📚 Examples
+
+### Example 1
+**Input:**
+```plaintext
+A = [1, 2, 3, 4, -10]
