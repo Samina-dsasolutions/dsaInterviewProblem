@@ -44,7 +44,7 @@ A = [1, 2, 3, 4, -10]
 ```
 # 📝 Problem Solutions
 ### Approach1 : 
---
+
 #### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach1/maxSumContigiousSubarray.java)
 
 
