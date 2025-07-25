@@ -46,6 +46,7 @@ A = [1, 2, 3, 4, -10]
 ![step 1](../images/step1.png) 
 ![step 2](../images/step2.png)
 ![step 3](../images/step3.jpg)
+![step 4](../images/step4.jpg)
 
 
 
