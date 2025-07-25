@@ -52,10 +52,8 @@ A = [1, 2, 3, 4, -10]
  <img src="../images/step2.png" alt="My Image" width="400" /> 
  <img src="../images/step3.jpg" alt="My Image" width="400" /> 
  <img src="../images/step4.jpg" alt="My Image" width="400" /> 
- ```
-```
----
 
+---
 ### Approach2
 #### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach2/maxSumContigiousSubarray.java)
 
