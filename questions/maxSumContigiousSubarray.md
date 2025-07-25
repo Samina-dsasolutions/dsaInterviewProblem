@@ -43,6 +43,7 @@ Given an array `A` of length `N`, your task is to find the **maximum possible su
 A = [1, 2, 3, 4, -10]
 ```
 # 📝 Problem Solutions
+---
 ### Approach1 : 
 
 #### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach1/maxSumContigiousSubarray.java)
@@ -52,10 +53,20 @@ A = [1, 2, 3, 4, -10]
  <img src="../images/step2.png" alt="My Image" width="400" /> 
  <img src="../images/step3.jpg" alt="My Image" width="400" /> 
  <img src="../images/step4.jpg" alt="My Image" width="400" /> 
-
+---
 ### Approach2
 
 #### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach2/maxSumContigiousSubarray.java)
+
+---
+### Approach3
+
+#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach3/maxSumContigiousSubarray.java)
+
+---
+### Approach4
+
+#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach4/maxSumContigiousSubarray.java)
 
 
 
