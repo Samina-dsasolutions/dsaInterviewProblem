@@ -44,7 +44,8 @@ A = [1, 2, 3, 4, -10]
 ```
 # 📝 Problem Solutions
 ### Approach1 : 
-####Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach1/maxSumContigiousSubarray.java)
+--
+#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach1/maxSumContigiousSubarray.java)
 
 
  <img src="../images/step1.png" alt="My Image" width="400" /> 
