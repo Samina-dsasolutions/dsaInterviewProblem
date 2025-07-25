@@ -43,6 +43,7 @@ Given an array `A` of length `N`, your task is to find the **maximum possible su
 A = [1, 2, 3, 4, -10]
 ```
 # 📝 Problem Solutions
+<img src="../images/my-image.png" alt="My Image" width="400" />
 ![step 1](../images/step1.png) 
 ![step 2](../images/step2.png)
 ![step 3](../images/step3.jpg)
