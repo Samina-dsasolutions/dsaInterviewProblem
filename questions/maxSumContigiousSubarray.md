@@ -57,7 +57,8 @@ A = [1, 2, 3, 4, -10]
 ---
 ### Approach2
 #### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach2/maxSumContigiousSubarray.java)
-
+#### Time Complexity : o(n2)
+#### Space Complexity : o(n)
 ---
 ### Approach3
 #### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach3/maxSumContigiousSubarray.java)
