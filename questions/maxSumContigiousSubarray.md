@@ -44,12 +44,13 @@ A = [1, 2, 3, 4, -10]
 ```
 # 📝 Problem Solutions
 --
-## Approach1
+### Approach1
 <img src="../images/step1.png" alt="My Image" width="400" />
 <img src="../images/step2.png" alt="My Image" width="400" />
 <img src="../images/step3.jpg" alt="My Image" width="400" />
 <img src="../images/step4.jpg" alt="My Image" width="400" />
-## Approach2
+``
+### Approach2
 
 
 
