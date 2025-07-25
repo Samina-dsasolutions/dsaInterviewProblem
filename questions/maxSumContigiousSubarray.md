@@ -46,7 +46,8 @@ A = [1, 2, 3, 4, -10]
 ---
 ### Approach1 : 
 #### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach1/maxSumContigiousSubarray.java)
-
+#### Time Complexity : o(n3)
+#### Space Complexity : o(1)
 
  <img src="../images/step1.png" alt="My Image" width="400" /> 
  <img src="../images/step2.png" alt="My Image" width="400" /> 
