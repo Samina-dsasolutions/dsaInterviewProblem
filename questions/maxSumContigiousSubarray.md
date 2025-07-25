@@ -44,10 +44,9 @@ A = [1, 2, 3, 4, -10]
 ```
 # 📝 Problem Solutions
 <img src="../images/step1.png" alt="My Image" width="400" />
-![step 1](../images/step1.png) 
-![step 2](../images/step2.png)
-![step 3](../images/step3.jpg)
-![step 4](../images/step4.jpg)
+<img src="../images/step2.png" alt="My Image" width="400" />
+<img src="../images/step3.jpg" alt="My Image" width="400" />
+<img src="../images/step4.jpg" alt="My Image" width="400" />
 
 
 
