@@ -55,6 +55,6 @@ B = 2
  <img src="../images/searchInARowColcolwiseSortedMatrix/step3.jpg" alt="My Image" width="400" /> 
  <img src="../images/searchInARowColcolwiseSortedMatrix/step4.jpg" alt="My Image" width="400" /> 
  <img src="../images/searchInARowColcolwiseSortedMatrix/step5.jpg" alt="My Image" width="400" /> 
- <img src="../images/searchInARowColcolwiseSortedMatrix/step6.jpg" alt="My Image" width="400" /> 
+
 
 
