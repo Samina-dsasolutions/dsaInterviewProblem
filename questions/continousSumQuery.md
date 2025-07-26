@@ -33,3 +33,28 @@ For ith devotee, `B[i][0] = L`, `B[i][1] = R`, `B[i][2] = P`, given by the 2D ar
 ```plaintext
 A = 5
 B = [[1, 2, 10], [2, 3, 20], [2, 5, 25]]
+```
+# 📝 Problem Solutions
+---
+### Approach1 : 
+#### Source code : [maxSumContigiousSubarray.java](../src/continousSumQuery/approach_one/continousSumQuery.java)
+#### Time Complexity : o(n3)
+#### Space Complexity : o(1)
+
+ <img src="../images/continousSumQuery/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../images/continousSumQuery/step2.jpg" alt="My Image" width="400" /> 
+  <img src="../images/continousSumQuery/step3.jpg" alt="My Image" width="400" /> 
+ <img src="../images/continousSumQuery/step4.jpg" alt="My Image" width="400" /> 
+
+---
+### Approach2
+#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach2/maxSumContigiousSubarray.java)
+#### Time Complexity : o(n2)
+#### Space Complexity : o(n)
+---
+### Approach3
+#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach3/maxSumContigiousSubarray.java)
+
+---
+### Approach4
+#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach4/maxSumContigiousSubarray.java)
