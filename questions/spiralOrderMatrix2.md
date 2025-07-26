@@ -34,3 +34,15 @@ Given an integer **A**, generate a square matrix of size `A x A` filled with ele
 [ [1, 2], 
   [4, 3] ]
 ```
+### Input 3:
+```plaintext
+5
+```
+### Output 3:
+```plaintext
+[ [1,   2,  3,  4, 5], 
+  [16, 17, 18, 19, 6], 
+  [15, 24, 25, 20, 7], 
+  [14, 23, 22, 21, 8], 
+  [13, 12, 11, 10, 9] ]
+```
