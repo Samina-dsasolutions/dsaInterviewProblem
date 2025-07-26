@@ -46,3 +46,16 @@ Given an integer **A**, generate a square matrix of size `A x A` filled with ele
   [14, 23, 22, 21, 8], 
   [13, 12, 11, 10, 9] ]
 ```
+# 📝 Problem Solutions
+---
+### Approach1 : 
+#### Source code : [spiralOrderMatrix2.java](../src/spiralOrderMatrix2/spiralOrderMatrix2.java)
+#### Time Complexity : o(n3)
+#### Space Complexity : o(1)
+
+ <img src="../images/spiralOrderMatrix2/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../images/spiralOrderMatrix2/step2.jpg" alt="My Image" width="400" /> 
+ <img src="../images/spiralOrderMatrix2/step3.jpg" alt="My Image" width="400" /> 
+ <img src="../images/spiralOrderMatrix2/step4.jpg" alt="My Image" width="400" /> 
+ <img src="../images/spiralOrderMatrix2/step5.jpg" alt="My Image" width="400" /> 
+ <img src="../images/spiralOrderMatrix2/step6.jpg" alt="My Image" width="400" /> 
