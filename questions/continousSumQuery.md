@@ -1,4 +1,4 @@
-# Q2. Continuous Sum QuerySolved
+# Q2. Continuous Sum Query
 ---
 ## 🚀 Introduction
 This problem involves efficiently updating ranges in an array based on multiple donations, and then calculating the final total for each beggar. It demonstrates the use of the **difference array** technique for range updates.
@@ -38,23 +38,20 @@ B = [[1, 2, 10], [2, 3, 20], [2, 5, 25]]
 ---
 ### Approach1 : 
 #### Source code : [maxSumContigiousSubarray.java](../src/continousSumQuery/approach_one/continousSumQuery.java)
-#### Time Complexity : o(n3)
+#### Time Complexity : o(qn)
 #### Space Complexity : o(1)
 
  <img src="../images/continousSumQuery/step1.jpg" alt="My Image" width="400" /> 
  <img src="../images/continousSumQuery/step2.jpg" alt="My Image" width="400" /> 
-  <img src="../images/continousSumQuery/step3.jpg" alt="My Image" width="400" /> 
- <img src="../images/continousSumQuery/step4.jpg" alt="My Image" width="400" /> 
+ <img src="../images/continousSumQuery/step3.jpg" alt="My Image" width="400" /> 
+
+ 
 
 ---
 ### Approach2
-#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach2/maxSumContigiousSubarray.java)
-#### Time Complexity : o(n2)
+#### Source code : [maxSumContigiousSubarray.java](../src/continousSumQuery/approach_one/continousSumQuery.java)
+#### Time Complexity : o(n+q)
 #### Space Complexity : o(n)
----
-### Approach3
-#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach3/maxSumContigiousSubarray.java)
-
----
-### Approach4
-#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach4/maxSumContigiousSubarray.java)
+ <img src="../images/continousSumQuery/step4.jpg" alt="My Image" width="400" /> 
+ <img src="../images/continousSumQuery/step5.jpg" alt="My Image" width="400" /> 
+ <img src="../images/continousSumQuery/step6.jpg" alt="My Image" width="400" /> 
