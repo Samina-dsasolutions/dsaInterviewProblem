@@ -84,7 +84,7 @@
 #### Array 1D
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Max Sum Contiguous Subarray | [🔗](#) | [💻](questions/maxSumContigiousSubarray.md) |
+| Max Sum Contiguous Subarray | [🔗](#) | [💻solved](questions/maxSumContigiousSubarray.md) |
 | Continuous Sum Query | [🔗](#) | [💻](questions/continousSumQuery.md) |
 | Rain Water Trapped | [🔗](#) | [💻](#) |
 | Add One To Number | [🔗](#) | [💻](#) |
