@@ -50,8 +50,8 @@ Given an integer **A**, generate a square matrix of size `A x A` filled with ele
 ---
 ### Approach1 : 
 #### Source code : [spiralOrderMatrix2.java](../src/spiralOrderMatrix2/spiralOrderMatrix2.java)
-#### Time Complexity : o(n3)
-#### Space Complexity : o(1)
+#### Time Complexity : o(A^2)
+#### Space Complexity : o(A^2)
 
  <img src="../images/spiralOrderMatrix2/step1.jpg" alt="My Image" width="400" /> 
  <img src="../images/spiralOrderMatrix2/step2.jpg" alt="My Image" width="400" /> 
