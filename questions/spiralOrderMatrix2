@@ -28,3 +28,17 @@ Given an integer **A**, generate a square matrix of size `A x A` filled with ele
 ### Input 1:
 ```plaintext
 1
+```
+### Output 1:
+```plaintext
+[[1]]
+```
+### Input 2:
+```plaintext
+2
+```
+### Output 2:
+```plaintext
+[ [1, 2], 
+  [4, 3] ]
+```
