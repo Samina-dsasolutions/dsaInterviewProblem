@@ -85,7 +85,7 @@
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Max Sum Contiguous Subarray | [🔗](#) | [💻](questions/maxSumContigiousSubarray.md) |
-| Continuous Sum Query | [🔗](#) | [💻](#) |
+| Continuous Sum Query | [🔗](#) | [💻](questions/continousSumQuery.md) |
 | Rain Water Trapped | [🔗](#) | [💻](#) |
 | Add One To Number | [🔗](#) | [💻](#) |
 | Flip | [🔗](#) | [💻](#) |
@@ -95,7 +95,7 @@
 #### Arrays 2D
 | Question Summary | YouTube | Source Code |
 |------------------------|---------|--------------|
-| Spiral Order Matrix II | [🔗](#) | [💻](#) |
+| Spiral Order Matrix II | [🔗](#) | [💻](questions/spiralOrderMatrix2.md) |
 | Search in sorted row & column matrix | [🔗](#) | [💻](#) |
 | Sum of all submatrices | [🔗](#) | [💻](#) |
 | Minimum Swaps | [🔗](#) | [💻](#) |
