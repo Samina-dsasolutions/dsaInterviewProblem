@@ -96,7 +96,7 @@
 | Question Summary | YouTube | Source Code |
 |------------------------|---------|--------------|
 | Spiral Order Matrix II | [🔗](#) | [💻solved](questions/spiralOrderMatrix2.md) |
-| Search in sorted row & column matrix | [🔗](#) | [💻](#) |
+| Search in sorted row & column matrix | [🔗](#) | [💻solved](questions/searchInARowColcolwiseSortedMatrix.md) |
 | Sum of all submatrices | [🔗](#) | [💻](#) |
 | Minimum Swaps | [🔗](#) | [💻](#) |
 | Max row of 1s | [🔗](#) | [💻](#) |
