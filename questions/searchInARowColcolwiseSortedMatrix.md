@@ -43,3 +43,16 @@ A = [[1, 2, 3],
      [7, 8, 9]]
 B = 2
 ```
+# 📝 Problem Solutions
+---
+### Approach1 : 
+#### Source code : [searchInARowColcolwiseSortedMatrix.java](../src/spiralOrderMatrix2/searchInARowColcolwiseSortedMatrix.java)
+#### Time Complexity : o(row+col)
+#### Space Complexity : o(1)
+
+ <img src="../images/searchInARowColcolwiseSortedMatrix/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../images/searchInARowColcolwiseSortedMatrix/step2.jpg" alt="My Image" width="400" /> 
+ <img src="../images/searchInARowColcolwiseSortedMatrix/step3.jpg" alt="My Image" width="400" /> 
+ <img src="../images/searchInARowColcolwiseSortedMatrix/step4.jpg" alt="My Image" width="400" /> 
+
+
