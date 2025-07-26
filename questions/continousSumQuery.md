@@ -37,7 +37,7 @@ B = [[1, 2, 10], [2, 3, 20], [2, 5, 25]]
 # 📝 Problem Solutions
 ---
 ### Approach1 : 
-#### Source code : [maxSumContigiousSubarray.java](../src/continousSumQuery/approach_one/continousSumQuery.java)
+#### Source code : [continousSumQuery.java](../src/continousSumQuery/approach_one/continousSumQuery.java)
 #### Time Complexity : o(qn)
 #### Space Complexity : o(1)
 
@@ -49,7 +49,7 @@ B = [[1, 2, 10], [2, 3, 20], [2, 5, 25]]
 
 ---
 ### Approach2
-#### Source code : [maxSumContigiousSubarray.java](../src/continousSumQuery/approach_one/continousSumQuery.java)
+#### Source code : [continousSumQuery.java](../src/continousSumQuery/approach_one/continousSumQuery.java)
 #### Time Complexity : o(n+q)
 #### Space Complexity : o(n)
  <img src="../images/continousSumQuery/step4.jpg" alt="My Image" width="400" /> 
