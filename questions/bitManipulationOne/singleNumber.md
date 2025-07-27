@@ -33,5 +33,35 @@ Given an array **A** of integers, where all elements occur twice except for one 
 ## 📚 Example
 ### Input 1:
 ```plaintext
-A = [1, 2, 2, 3, 1]
+ A = [1, 2, 2, 3, 1]
 ```
+### output 1:
+```plaintext
+3
+```
+### Explaination 1:
+```plaintext
+3 occurs once.
+```
+### Input 2:
+```plaintext
+ A = [1, 2, 2]
+```
+### output 2:
+```plaintext
+1
+```
+### Explaination 2:
+```plaintext
+1 occurs once.
+```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [singleNumber.java](../../src/bitManipulationOne/numberOf1Bits/numberOf1Bits.java)
+#### Time Complexity : o(1)
+#### Space Complexity : o(1)
+
+ <img src="../../images/bitManipulationOne/singleNumber/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationOne/singleNumber/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationOne/singleNumber/step3.jpg" alt="My Image" width="400" />
