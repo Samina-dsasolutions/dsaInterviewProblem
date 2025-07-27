@@ -38,3 +38,11 @@ Write a function that takes an integer **A** and returns the number of 1 bits pr
 ```plaintext
 11 is represented as 1011 in binary.
 ```
+# 📝 Problem Solutions
+---
+### Approach1 : 
+#### Source code : [numberOf1Bits.java](../src/numberOf1Bits/numberOf1Bits.java)
+#### Time Complexity : o(1)
+#### Space Complexity : o(1)
+
+ <img src="../images/numberOf1Bits/step1.jpg" alt="My Image" width="400" /> 
