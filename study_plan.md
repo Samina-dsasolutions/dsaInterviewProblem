@@ -115,12 +115,12 @@
 #### Bit Manipulation 1
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Number of 1 Bits | [🔗](#) | [💻](questions/bitManipulationOne/singleNumber.md) |
-| Single Number | [🔗](#) | [💻](#) |
-| Unset i-th bit | [🔗](#) | [💻](#) |
-| Toggle i-th bit | [🔗](#) | [💻](#) |
-| Check bit | [🔗](#) | [💻](#) |
-| Set Bit | [🔗](#) | [💻](#) |
+| Number of 1 Bits | [🔗](#) | [💻solved](questions/bitManipulationOne/numberOf1Bits.md) |
+| Single Number | [🔗](#) | [💻solved](questions/bitManipulationOne/singleNumber.md) |
+| Unset i-th bit | [🔗](#) | [💻solved](questions/bitManipulationOne/unsetIthBit.md) |
+| Toggle i-th bit | [🔗](#) | [💻solved](questions/bitManipulationOne/toggleIthBit.md) |
+| Check bit | [🔗](#) | [💻solved](questions/bitManipulationOne/checkBit.md) |
+| Set Bit | [🔗](#) | [💻solved](questions/bitManipulationOne/setBit.md) |
 | Find nth Magic Number | [🔗](#) | [💻](#) |
 | Help From Sam | [🔗](#) | [💻](#) |
 | Finding Good Days | [🔗](#) | [💻](#) |
