@@ -115,7 +115,7 @@
 #### Bit Manipulation 1
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Number of 1 Bits | [🔗](#) | [💻](#) |
+| Number of 1 Bits | [🔗](#) | [💻](questions/bitManipulationOne/singleNumber.md) |
 | Single Number | [🔗](#) | [💻](#) |
 | Unset i-th bit | [🔗](#) | [💻](#) |
 | Toggle i-th bit | [🔗](#) | [💻](#) |
