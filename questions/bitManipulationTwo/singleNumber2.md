@@ -68,7 +68,7 @@ A = [1, 2, 4, 3, 3, 2, 2, 3, 1, 1]
 ---
 ### Approach1 :
 #### Source code : [singleNumber2.java](../../src/bitManipulationTwo/singleNumber2/singleNumber2.java)
-#### Time Complexity : o(1)
+#### Time Complexity : o(n)
 #### Space Complexity : o(1)
 
  <img src="../../images/bitManipulationTwo/singleNumber2/step1.jpg" alt="My Image" width="400" />
