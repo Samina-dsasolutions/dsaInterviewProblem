@@ -45,9 +45,8 @@ Return an integer representing the value of **A** after toggling the B-th bit.
 
 ## 📚 Example
 
-### Example 1:
+### Input 1:
 ```plaintext
-Input:
 A = 4, B = 1
 ```
 ### Output 1:
