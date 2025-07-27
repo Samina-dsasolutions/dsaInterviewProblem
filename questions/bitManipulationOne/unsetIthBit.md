@@ -66,3 +66,12 @@ A = 5, B = 2
 Given N = 5 which is 101 in binary. We unset the 2-nd bit
 It becomes 001 which is 1 in Decimal.
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [unsetIthBit.java](../../src/bitManipulationOne/unsetIthBit/unsetIthBit.java)
+#### Time Complexity : o(1)
+#### Space Complexity : o(1)
+
+ <img src="../../images/unsetIthBit/unsetIthBit/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/unsetIthBit/unsetIthBit/step2.jpg" alt="My Image" width="400" /> 
