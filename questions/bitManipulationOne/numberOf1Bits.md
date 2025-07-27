@@ -45,4 +45,4 @@ Write a function that takes an integer **A** and returns the number of 1 bits pr
 #### Time Complexity : o(1)
 #### Space Complexity : o(1)
 
- <img src="../images/bitManipulationOne/numberOf1Bits/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/bitManipulationOne/numberOf1Bits/step1.jpg" alt="My Image" width="400" /> 
