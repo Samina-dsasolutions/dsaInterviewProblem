@@ -30,3 +30,11 @@ Write a function that takes an integer **A** and returns the number of 1 bits pr
 ```plaintext
 11
 ```
+### output 1:
+```plaintext
+3
+```
+### Explaination 1:
+```plaintext
+11 is represented as 1011 in binary.
+```
