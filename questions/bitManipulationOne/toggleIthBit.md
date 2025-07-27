@@ -69,3 +69,10 @@ A = 5, B = 2
 Given N = 5 which is 101 in binary. The 2-nd bit is set
 so we make it unset
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [toggleIthBit.java](../../src/bitManipulationOne/toggleIthBit/toggleIthBit.java)
+#### Time Complexity : o(1)
+#### Space Complexity : o(1)
+ <img src="../../images/bitManipulationOne/toggleIthBit/step1.jpg" alt="My Image" width="400" /> 
