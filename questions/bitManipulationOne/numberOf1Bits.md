@@ -41,7 +41,7 @@ Write a function that takes an integer **A** and returns the number of 1 bits pr
 # 📝 Problem Solutions
 ---
 ### Approach1 : 
-#### Source code : [numberOf1Bits.java](../src/bitManipulationOne/numberOf1Bits/numberOf1Bits.java)
+#### Source code : [numberOf1Bits.java](../../src/bitManipulationOne/numberOf1Bits/numberOf1Bits.java)
 #### Time Complexity : o(1)
 #### Space Complexity : o(1)
 
