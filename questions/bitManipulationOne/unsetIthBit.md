@@ -73,5 +73,5 @@ It becomes 001 which is 1 in Decimal.
 #### Time Complexity : o(1)
 #### Space Complexity : o(1)
 
- <img src="../../images/unsetIthBit/unsetIthBit/step1.jpg" alt="My Image" width="400" /> 
- <img src="../../images/unsetIthBit/unsetIthBit/step2.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/bitManipulationOne/unsetIthBit/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/bitManipulationOne/unsetIthBit/step2.jpg" alt="My Image" width="400" /> 
