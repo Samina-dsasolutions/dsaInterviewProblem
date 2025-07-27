@@ -58,7 +58,7 @@ Given an array **A** of integers, where all elements occur twice except for one 
 # 📝 Problem Solutions
 ---
 ### Approach1 :
-#### Source code : [singleNumber.java](../../src/bitManipulationOne/numberOf1Bits/numberOf1Bits.java)
+#### Source code : [singleNumber.java](../../src/bitManipulationOne/singleNumber/singleNumber.java)
 #### Time Complexity : o(1)
 #### Space Complexity : o(1)
 
