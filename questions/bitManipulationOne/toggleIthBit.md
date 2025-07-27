@@ -51,6 +51,7 @@ Input:
 A = 4, B = 1
 ```
 ### Output 1:
+```plaintext
 6
 ```
 ### Explaination 1:
@@ -58,10 +59,12 @@ A = 4, B = 1
 Given N = 4 which is 100 in binary. The 1-st bit is unset
 so we make it set
 ```
-Input 2:
+### Input 2:
+```plaintext
 A = 5, B = 2
 ```
 ### Output 2:
+```plaintext
 1
 ```
 ### Explaination 2:
