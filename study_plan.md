@@ -130,7 +130,7 @@
 #### Bit Manipulation 2
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Single Number II | [🔗](#) | [💻](#) |
+| Single Number II | [🔗](#) | [💻Solution](questions/bitManipulationTwo/singleNumber2.md) |
 | Single Number III | [🔗](#) | [💻](#) |
 | Sum of XOR of all Pairs | [🔗](#) | [💻](#) |
 | Min XOR value | [🔗](#) | [💻](#) |
