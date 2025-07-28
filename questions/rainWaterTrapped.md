@@ -62,8 +62,8 @@ No water is trapped.
 ---
 ### Approach1 :
 #### Source code : [rainWaterTrapped.java](../src/rainWaterTrapped/rainWaterTrapped.java)
-#### Time Complexity : o(row+col)
-#### Space Complexity : o(1)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
 
  <img src="../images/rainWaterTrapped/step1.jpg" alt="My Image" width="400" /> 
  <img src="../images/rainWaterTrapped/step2.jpg" alt="My Image" width="400" /> 
