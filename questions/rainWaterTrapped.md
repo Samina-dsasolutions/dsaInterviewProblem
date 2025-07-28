@@ -32,7 +32,63 @@ The array `A = [5, 4, 1, 4, 3, 2, 7]` is visualized as below. The total amount o
 ---
 
 ## 📚 Example
+
 ### Input 1:
 ```plaintext
-A = [0, 1, 0, 2]
+ A = [0, 1, 0, 2]
 ```
+### output 1:
+```plaintext
+1
+```
+### Explaination 1:
+```plaintext
+1 unit is trapped on top of the 3rd element.
+```
+### Input 2:
+```plaintext
+A = [1, 2]
+```
+### output 2:
+```plaintext
+0
+```
+### Explaination 2:
+```plaintext
+No water is trapped.
+```
+
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [rainWaterTrapped.java](../src/rainWaterTrapped/rainWaterTrapped.java)
+#### Time Complexity : o(row+col)
+#### Space Complexity : o(1)
+
+ <img src="../images/rainWaterTrapped/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step2.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step3.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step4.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step5.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step6.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step7.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step8.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step9.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step10.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step11.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step12.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step13.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step14.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step15.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step16.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step17.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step18.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step19.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step20.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step21.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step22.jpg" alt="My Image" width="400" /> 
+ <img src="../images/rainWaterTrapped/step23.jpg" alt="My Image" width="400" /> 
+
+
+
+
