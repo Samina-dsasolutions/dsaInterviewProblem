@@ -84,9 +84,9 @@
 #### Array 1D
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Max Sum Contiguous Subarray | [🔗](#) | [💻solved](questions/maxSumContigiousSubarray.md) |
-| Continuous Sum Query | [🔗](#) | [💻solved](questions/continousSumQuery.md) |
-| Rain Water Trapped | [🔗](#) | [💻](#) |
+| Max Sum Contiguous Subarray | [🔗](#) | [💻Solution](questions/maxSumContigiousSubarray.md) |
+| Continuous Sum Query | [🔗](#) | [💻Solution](questions/continousSumQuery.md) |
+| Rain Water Trapped | [🔗](#) | [💻Solution](questions/rainWaterTrapped.md) |
 | Add One To Number | [🔗](#) | [💻](#) |
 | Flip | [🔗](#) | [💻](#) |
 
@@ -95,8 +95,8 @@
 #### Arrays 2D
 | Question Summary | YouTube | Source Code |
 |------------------------|---------|--------------|
-| Spiral Order Matrix II | [🔗](#) | [💻solved](questions/spiralOrderMatrix2.md) |
-| Search in sorted row & column matrix | [🔗](#) | [💻solved](questions/searchInARowColcolwiseSortedMatrix.md) |
+| Spiral Order Matrix II | [🔗](#) | [💻Solution](questions/spiralOrderMatrix2.md) |
+| Search in sorted row & column matrix | [🔗](#) | [💻Solution](questions/searchInARowColcolwiseSortedMatrix.md) |
 | Sum of all submatrices | [🔗](#) | [💻](#) |
 | Minimum Swaps | [🔗](#) | [💻](#) |
 | Max row of 1s | [🔗](#) | [💻](#) |
@@ -115,12 +115,12 @@
 #### Bit Manipulation 1
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Number of 1 Bits | [🔗](#) | [💻solved](questions/bitManipulationOne/numberOf1Bits.md) |
-| Single Number | [🔗](#) | [💻solved](questions/bitManipulationOne/singleNumber.md) |
-| Unset i-th bit | [🔗](#) | [💻solved](questions/bitManipulationOne/unsetIthBit.md) |
-| Toggle i-th bit | [🔗](#) | [💻solved](questions/bitManipulationOne/toggleIthBit.md) |
-| Check bit | [🔗](#) | [💻solved](questions/bitManipulationOne/checkBit.md) |
-| Set Bit | [🔗](#) | [💻solved](questions/bitManipulationOne/setBit.md) |
+| Number of 1 Bits | [🔗](#) | [💻Solution](questions/bitManipulationOne/numberOf1Bits.md) |
+| Single Number | [🔗](#) | [💻Solution](questions/bitManipulationOne/singleNumber.md) |
+| Unset i-th bit | [🔗](#) | [💻Solution](questions/bitManipulationOne/unsetIthBit.md) |
+| Toggle i-th bit | [🔗](#) | [💻Solution](questions/bitManipulationOne/toggleIthBit.md) |
+| Check bit | [🔗](#) | [💻Solution](questions/bitManipulationOne/checkBit.md) |
+| Set Bit | [🔗](#) | [💻Solution](questions/bitManipulationOne/setBit.md) |
 | Find nth Magic Number | [🔗](#) | [💻](#) |
 | Help From Sam | [🔗](#) | [💻](#) |
 | Finding Good Days | [🔗](#) | [💻](#) |
