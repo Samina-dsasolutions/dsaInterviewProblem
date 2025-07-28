@@ -47,8 +47,8 @@ B = 2
 ---
 ### Approach1 : 
 #### Source code : [searchInARowColcolwiseSortedMatrix.java](../src/spiralOrderMatrix2/searchInARowColcolwiseSortedMatrix.java)
-#### Time Complexity : o(n)
-#### Space Complexity : o(n) 
+#### Time Complexity : o(row+col)
+#### Space Complexity : o(1)
 
  <img src="../images/searchInARowColcolwiseSortedMatrix/step1.jpg" alt="My Image" width="400" /> 
  <img src="../images/searchInARowColcolwiseSortedMatrix/step2.jpg" alt="My Image" width="400" /> 
