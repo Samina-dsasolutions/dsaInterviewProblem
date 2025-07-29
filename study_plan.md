@@ -132,7 +132,7 @@
 |--------------------|---------|--------------|
 | Single Number II | [🔗](#) | [💻Solution](questions/bitManipulationTwo/singleNumber2.md) |
 | Single Number III | [🔗](#) | [💻Solution](questions/bitManipulationTwo/singleNumber3.md) |
-| Sum of XOR of all Pairs | [🔗](#) | [💻](#) |
+| Sum of XOR of all Pairs | [🔗](#) | [💻Solution](questions/bitManipulationTwo/sumOfXorOfAllPairs.md) |
 | Min XOR value | [🔗](#) | [💻](#) |
 | Strange Equality | [🔗](#) | [💻](#) |
 | SUBARRAY OR | [🔗](#) | [💻](#) |
