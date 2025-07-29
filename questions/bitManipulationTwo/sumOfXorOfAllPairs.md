@@ -68,4 +68,5 @@ Sum of xor of all pairs = 7 + 1 + 6 = 14.
 #### Time Complexity : o(n^2)
 #### Space Complexity : o(1)
 
-
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/step2.jpg" alt="My Image" width="400" />
