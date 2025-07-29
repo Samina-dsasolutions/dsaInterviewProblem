@@ -46,7 +46,7 @@ B = 2
 # 📝 Problem Solutions
 ---
 ### Approach1 : 
-#### Source code : [searchInARowColcolwiseSortedMatrix.java](../src/spiralOrderMatrix2/searchInARowColcolwiseSortedMatrix.java)
+#### Source code : [searchInARowColcolwiseSortedMatrix.java](../src/searchInARowColcolwiseSortedMatrix/searchInARowColcolwiseSortedMatrix.java)
 #### Time Complexity : o(row+col)
 #### Space Complexity : o(1)
 
