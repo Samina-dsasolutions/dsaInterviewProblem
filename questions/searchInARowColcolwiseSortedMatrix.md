@@ -57,4 +57,4 @@ B = 2
  <img src="../images/searchInARowColcolwiseSortedMatrix/step5.jpg" alt="My Image" width="400" /> 
 
 
-
+ 
