@@ -64,9 +64,9 @@ Sum of xor of all pairs = 7 + 1 + 6 = 14.
 # 📝 Problem Solutions
 ---
 ### Approach1 :
-#### Source code : [sumOfXorOfAllPairs.java](../../src/bitManipulationTwo/sumOfXorOfAllPairs/sumOfXorOfAllPairs.java)
+#### Source code : [sumOfXorOfAllPairs.java](../../src/bitManipulationTwo/sumOfXorOfAllPairs/approach_one/sumOfXorOfAllPairs.java)
 #### Time Complexity : o(n^2)
 #### Space Complexity : o(1)
 
- <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/step1.jpg" alt="My Image" width="400" />
- <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_one/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_one/step2.jpg" alt="My Image" width="400" />
