@@ -65,7 +65,7 @@ A = [1, 2, 3, 4, -10]
 
 ---
 ### Approach4
-#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/bruteforceApproach4/maxSumContigiousSubarray.java)
+#### Source code : [maxSumContigiousSubarray.java](../src/maxSumContigiousSubarray/kadans/maxSumContigiousSubarray.java)
 
 
 
