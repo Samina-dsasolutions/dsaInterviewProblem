@@ -131,7 +131,7 @@
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
 | Single Number II | [🔗](#) | [💻Solution](questions/bitManipulationTwo/singleNumber2.md) |
-| Single Number III | [🔗](#) | [💻](#) |
+| Single Number III | [🔗](#) | [💻Solution](questions/bitManipulationTwo/singleNumber3.md) |
 | Sum of XOR of all Pairs | [🔗](#) | [💻](#) |
 | Min XOR value | [🔗](#) | [💻](#) |
 | Strange Equality | [🔗](#) | [💻](#) |
