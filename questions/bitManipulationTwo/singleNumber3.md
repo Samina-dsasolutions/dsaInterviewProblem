@@ -63,3 +63,15 @@ A = [1, 2]
 ```plaintext
 1 and 2 appear only once.
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [singleNumber3.java](../../src/bitManipulationTwo/singleNumber3/singleNumber3.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(1)
+
+ <img src="../../images/bitManipulationTwo/singleNumber3/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/singleNumber3/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/singleNumber3/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/singleNumber3/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/singleNumber3/step5.jpg" alt="My Image" width="400" />
