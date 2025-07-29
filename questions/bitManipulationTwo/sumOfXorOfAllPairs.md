@@ -70,3 +70,17 @@ Sum of xor of all pairs = 7 + 1 + 6 = 14.
 
  <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_one/step1.jpg" alt="My Image" width="400" />
  <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_one/step2.jpg" alt="My Image" width="400" />
+
+---
+### Approach2 :
+#### Source code : [sumOfXorOfAllPairs.java](../../src/bitManipulationTwo/sumOfXorOfAllPairs/approach_two/sumOfXorOfAllPairs.java)
+#### Time Complexity : o(1)
+#### Space Complexity : o(1)
+
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_two/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_two/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_two/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_two/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_two/step5.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_two/step6.jpg" alt="My Image" width="400" />
+ <img src="../../images/bitManipulationTwo/sumOfXorOfAllPairs/approach_two/step7.jpg" alt="My Image" width="400" />
