@@ -47,3 +47,21 @@ A = [3, 3, 3, 9, 0, 1, 0]
 ```plaintext
 The distinct elements of the array are 3, 9, 0 and 1.
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [countDistinctElements.java](../../src/hashingOne/countDistinctElements/approachOne/countDistinctElements.java)
+#### Time Complexity : o(n^2)
+#### Space Complexity : o(1)
+
+ <img src="../../images/hashingOne/countDistinctElements/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/countDistinctElements/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/countDistinctElements/approachOne/step3.jpg" alt="My Image" width="400" />
+
+### Approach2 :
+#### Source code : [countDistinctElements.java](../../src/hashingOne/countDistinctElements/approachTwo/countDistinctElements.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingOne/countDistinctElements/approachTwo/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/countDistinctElements/approachTwo/step2.jpg" alt="My Image" width="400" />
