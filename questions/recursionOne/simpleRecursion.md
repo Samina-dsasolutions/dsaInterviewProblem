@@ -18,3 +18,22 @@ public class simpleRecursion {
         System.out.println(_foo_(3, 5));
     }
 }
+```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [simpleRecursion.java](../../src/recursionOne/simpleRecursion/simpleRecursion.java)
+
+
+ <img src="../../images/recursionOne/simpleRecursion/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step5.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step6.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step7.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step8.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step9.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step10.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step11.jpg" alt="My Image" width="400" />
+ <img src="../../images/recursionOne/simpleRecursion/step12.jpg" alt="My Image" width="400" />
