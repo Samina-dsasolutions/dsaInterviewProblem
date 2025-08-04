@@ -63,5 +63,5 @@ The frequency of learner 2 in the array A is 2 (they participated in two contest
 #### Time Complexity : o(q*n)
 #### Space Complexity : o(q)
 
- <img src="../../images/frequencyOfElementQuery/approachOne/step1.jpg" alt="My Image" width="400" />
- <img src="../../images/frequencyOfElementQuery/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/frequencyOfElementQuery/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/frequencyOfElementQuery/approachOne/step2.jpg" alt="My Image" width="400" />
