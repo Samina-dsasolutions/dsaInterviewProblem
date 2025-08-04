@@ -65,3 +65,11 @@ The frequency of learner 2 in the array A is 2 (they participated in two contest
 
  <img src="../../images/hashingOne/frequencyOfElementQuery/approachOne/step1.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingOne/frequencyOfElementQuery/approachOne/step2.jpg" alt="My Image" width="400" />
+
+### Approach2 :
+#### Source code : [frequencyOfElementQuery.java](../../src/hashingOne/frequencyOfElementQuery/approachTwo/frequencyOfElementQuery.java)
+#### Time Complexity : o(q+n)
+#### Space Complexity : o(q+n)
+
+ <img src="../../images/hashingOne/frequencyOfElementQuery/approachTwo/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/frequencyOfElementQuery/approachTwo/step2.jpg" alt="My Image" width="400" />
