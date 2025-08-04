@@ -150,7 +150,7 @@
 | Print A to 1 function | [🔗](#) | [💻Solution](questions/recursionOne/printAtoOne.md) |
 | Output - 7 | [🔗](#) | [💻Solution](questions/recursionOne/output7.md) |
 | Sum of Digits | [🔗](#) | [💻](#) |
-| Increasing & Decreasing | [🔗](#) | [💻](#) |
+| Increasing & Decreasing | [🔗](Solution) | [💻](questions/recursionOne/decreasingIncreasingOneFunction.md) |
 
 ---
 
