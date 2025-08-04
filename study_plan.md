@@ -186,26 +186,26 @@
 #### Hashing 1 Introduction
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Frequency of element query | [🔗](#) | [💻](#) |
-| Count distinct elements | [🔗](#) | [💻](#) |
-| First Repeating element | [🔗](#) | [💻](#) |
-| Sub-array with 0 sum | [🔗](#) | [💻](#) |
-| Common Elements | [🔗](#) | [💻](#) |
-| Count unique elements | [🔗](#) | [💻](#) |
-| Count Subarray Zero Sum | [🔗](#) | [💻](#) |
+| Frequency of element query | [🔗](#) | [💻Solution](questions/hashingOne/frequencyOfElementQuery.md) |
+| Count distinct elements | [🔗](#) | [💻Solution](questions/hashingOne/countDistinctElements.md) |
+| First Repeating element | [🔗](#) | [💻Solution](questions/hashingOne/firstRepeatingElement.md) |
+| Sub-array with 0 sum | [🔗](#) | [💻Solution](questions/hashingOne/subArrayWith0Sum.md) |
+| Common Elements | [🔗](#) | [Solution](questions/hashingOne/commonElements.md) |
+| Count unique elements | [🔗](#) | [💻Solution](questions/hashingOne/countUniqueElements.md) |
+| Count Subarray Zero Sum | [🔗](#) | [💻Solution](questions/hashingOne/countSubarrayZeroSum.md) |
 
 ---
 
 #### Hashing 2 Problems
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Check Pair Sum | [🔗](#) | [💻](#) |
-| Count Pair Difference | [🔗](#) | [💻](#) |
-| Subarray Sum Equals K | [🔗](#) | [💻](#) |
-| Distinct Numbers in Window | [🔗](#) | [💻](#) |
-| Longest Subarray Zero Sum | [🔗](#) | [💻](#) |
-| Count Pair Sum | [🔗](#) | [💻](#) |
-| Subarray with given sum | [🔗](#) | [💻](#) |
+| Check Pair Sum | [🔗](#) | [💻Solution](questions/hashingTwo/checkPairSum.md) |
+| Count Pair Difference | [🔗](#) | [💻Solution](questions/hashingTwo/countPairDifference.md) |
+| Subarray Sum Equals K | [🔗](#) | [💻Solution](questions/hashingTwo/subarraySumEqualsK.md) |
+| Distinct Numbers in Window | [🔗](#) | [💻Solution](questions/hashingTwo/distinctNumbersInWindow.md) |
+| Longest Subarray Zero Sum | [🔗](#) | [💻Solution](questions/hashingTwo/longestSubarrayZeroSum.md) |
+| Count Pair Sum | [🔗](#) | [💻Solution](questions/hashingTwo/countPairSum.md) |
+| Subarray with given sum | [🔗](#) | [💻Solution](questions/hashingTwo/subarrayWithGivenSum.md) |
 
 ---
 
