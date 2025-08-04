@@ -148,7 +148,7 @@
 | Find Fibonacci - II | [🔗](#) | [💻Solution](questions/recursionOne/findFactorial2.md) |
 | Print 1 to A function | [🔗](#) | [💻Solution](questions/recursionOne/printOneTwoA.md) |
 | Print A to 1 function | [🔗](#) | [💻Solution](questions/recursionOne/printAtoOne.md) |
-| Output - 7 | [🔗](#) | [💻](#) |
+| Output - 7 | [🔗](#) | [💻Solution](questions/recursionOne/output7.md) |
 | Sum of Digits | [🔗](#) | [💻](#) |
 | Increasing & Decreasing | [🔗](#) | [💻](#) |
 
