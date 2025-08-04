@@ -59,7 +59,7 @@ The frequency of learner 2 in the array A is 2 (they participated in two contest
 # 📝 Problem Solutions
 ---
 ### Approach1 :
-#### Source code : [frequencyOfElementQuery.java](../../src/frequencyOfElementQuery/approachOne/frequencyOfElementQuery.java)
+#### Source code : [frequencyOfElementQuery.java](../../src/hashingOne/frequencyOfElementQuery/approachOne/frequencyOfElementQuery.java)
 #### Time Complexity : o(q*n)
 #### Space Complexity : o(q)
 
