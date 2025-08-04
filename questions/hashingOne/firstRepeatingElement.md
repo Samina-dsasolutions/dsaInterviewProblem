@@ -50,3 +50,20 @@ If there is no repeating element, return -1.
 ```plaintext
  There is no repeating element, output -1
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [firstRepeatingElement.java](../../src/hashingOne/firstRepeatingElement/approachOne/firstRepeatingElement.java)
+#### Time Complexity : o(n^2)
+#### Space Complexity : o(1)
+
+ <img src="../../images/hashingOne/firstRepeatingElement/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/firstRepeatingElement/approachOne/step2.jpg" alt="My Image" width="400" />
+
+### Approach2 :
+#### Source code : [frequencyOfElementQuery.java](../../src/hashingOne/firstRepeatingElement/approachTwo/firstRepeatingElement.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingOne/firstRepeatingElement/approachTwo/step1.jpg" alt="My Image" width="400" />
+
