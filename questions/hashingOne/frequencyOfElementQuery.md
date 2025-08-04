@@ -56,3 +56,12 @@ B = [3, 2]
 The frequency of learner 3 in the array A is 0 (they did not participate in any contest).
 The frequency of learner 2 in the array A is 2 (they participated in two contests).
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [frequencyOfElementQuery.java](../../src/frequencyOfElementQuery/approachOne/frequencyOfElementQuery.java)
+#### Time Complexity : o(q*n)
+#### Space Complexity : o(q)
+
+ <img src="../../images/frequencyOfElementQuery/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/frequencyOfElementQuery/approachOne/step2.jpg" alt="My Image" width="400" />
