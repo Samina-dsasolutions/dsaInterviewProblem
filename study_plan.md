@@ -143,11 +143,11 @@
 #### Recursion 1
 | Question Summary | YouTube | Source Code |
 |--------------------|---------|--------------|
-| Simple Recursion | [🔗](#) | [💻](#) |
-| Find Factorial | [🔗](#) | [💻](#) |
-| Find Fibonacci - II | [🔗](#) | [💻](#) |
-| Print 1 to A function | [🔗](#) | [💻](#) |
-| Print A to 1 function | [🔗](#) | [💻](#) |
+| Simple Recursion | [🔗](#) | [💻Solution](questions/recursionOne/simpleRecursion.md) |
+| Find Factorial | [🔗](#) | [💻Solution](questions/recursionOne/findFactorial.md) |
+| Find Fibonacci - II | [🔗](#) | [💻Solution](questions/recursionOne/findFactorial2.md) |
+| Print 1 to A function | [🔗](#) | [💻Solution](questions/recursionOne/printOneTwoA.md) |
+| Print A to 1 function | [🔗](#) | [💻Solution](questions/recursionOne/printAtoOne.md) |
 | Output - 7 | [🔗](#) | [💻](#) |
 | Sum of Digits | [🔗](#) | [💻](#) |
 | Increasing & Decreasing | [🔗](#) | [💻](#) |
