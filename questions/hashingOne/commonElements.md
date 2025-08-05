@@ -53,3 +53,14 @@ Given two integer arrays, **A** and **B**, of sizes **N** and **M**, respectivel
 ```plaintext
  Elements (2, 10) appears in both the array.
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [commonElements.java](../../src/hashingOne/commonElements/approachOne/commonElements.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingOne/commonElements/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/commonElements/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/commonElements/approachOne/step3.jpg" alt="My Image" width="400" />
+
