@@ -59,7 +59,7 @@ The pair which gives difference as 3 are (2, 1), (4, 1), (2, 3) and (4, 3).
 # 📝 Problem Solutions
 ---
 ### Approach1 :
-#### Source code : [countPairDifference.java](../../src/hashingTwo/countPairDifference/approachOne/countPairDifferencejava)
+#### Source code : [countPairDifference.java](../../src/hashingTwo/countPairDifference/approachOne/countPairDifference.java)
 #### Time Complexity : o(n^2)
 #### Space Complexity : o(1)
 
