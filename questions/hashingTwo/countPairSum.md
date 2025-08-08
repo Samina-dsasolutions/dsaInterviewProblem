@@ -77,3 +77,6 @@ The pair which gives sum as 3 are (1, 2), (1, 4), (2, 3) and (3, 4).
  <img src="../../images/hashingTwo/countPairSum/approachTwo/step2.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingTwo/countPairSum/approachTwo/step3.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingTwo/countPairSum/approachTwo/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachTwo/step5.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachTwo/step6.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachTwo/step7.jpg" alt="My Image" width="400" />
