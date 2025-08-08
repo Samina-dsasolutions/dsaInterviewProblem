@@ -55,3 +55,24 @@ B = 1
 ```plaintext
 The pair which gives difference as 3 are (2, 1), (4, 1), (2, 3) and (4, 3). 
 ```
+
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [countPairDifference.java](../../src/hashingTwo/countPairDifference/approachOne/countPairDifferencejava)
+#### Time Complexity : o(n^2)
+#### Space Complexity : o(1)
+
+ <img src="../../images/hashingTwo/countPairDifference/approachOne/step1.jpg" alt="My Image" width="400" />
+
+
+
+### Approach2 :
+#### Source code : [countPairDifference.java](../../src/hashingTwo/countPairDifference/approachTwo/countPairDifference.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingTwo/countPairDifference/approachTwo/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairDifference/approachTwo/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairDifference/approachTwo/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairDifference/approachTwo/step4.jpg" alt="My Image" width="400" />
