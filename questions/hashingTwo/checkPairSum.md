@@ -52,3 +52,23 @@ B = [9, 10, 7, 10, 9, 1, 5, 1, 5]
 ```plaintext
 There is no such pair exists.
 ```
+
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [checkPairSum.java](../../src/hashingTwo/checkPairSum/approachOne/checkPairSum.java)
+#### Time Complexity : o(n^2)
+#### Space Complexity : o(1)
+
+ <img src="../../images/hashingTwo/checkPairSum/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/checkPairSum/approachOne/step2.jpg" alt="My Image" width="400" />
+
+
+### Approach2 :
+#### Source code : [checkPairSum.java](../../src/hashingTwo/checkPairSum/approachTwo/checkPairSum.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingTwo/checkPairSum/approachTwo/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/checkPairSum/approachTwo/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/checkPairSum/approachTwo/step3.jpg" alt="My Image" width="400" />
