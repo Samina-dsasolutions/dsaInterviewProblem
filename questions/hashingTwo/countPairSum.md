@@ -64,8 +64,8 @@ The pair which gives sum as 3 are (1, 2), (1, 4), (2, 3) and (3, 4).
 #### Time Complexity : o(n^2)
 #### Space Complexity : o(1)
 
- <img src="../../images/hashingTwo/checkPairSum/approachOne/step1.jpg" alt="My Image" width="400" />
- <img src="../../images/hashingTwo/checkPairSum/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachOne/step2.jpg" alt="My Image" width="400" />
 
 
 ### Approach2 :
@@ -73,7 +73,7 @@ The pair which gives sum as 3 are (1, 2), (1, 4), (2, 3) and (3, 4).
 #### Time Complexity : o(n)
 #### Space Complexity : o(n)
 
- <img src="../../images/hashingTwo/checkPairSum/approachTwo/step1.jpg" alt="My Image" width="400" />
- <img src="../../images/hashingTwo/checkPairSum/approachTwo/step2.jpg" alt="My Image" width="400" />
- <img src="../../images/hashingTwo/checkPairSum/approachTwo/step3.jpg" alt="My Image" width="400" />
- <img src="../../images/hashingTwo/checkPairSum/approachTwo/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachTwo/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachTwo/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachTwo/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/countPairSum/approachTwo/step4.jpg" alt="My Image" width="400" />
