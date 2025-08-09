@@ -52,8 +52,8 @@ Given an array **A** of **N** integers, find the count of subarrays in the array
 ---
 ### Approach1 :
 #### Source code : [countSubarrayZeroSum.java](../../src/hashingOne/countSubarrayZeroSum/approachOne/countSubarrayZeroSum.java)
-#### Time Complexity : o(n^2)
-#### Space Complexity : o(1)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
 
  <img src="../../images/hashingOne/countSubarrayZeroSum/approachOne/step1.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingOne/countSubarrayZeroSum/approachOne/step2.jpg" alt="My Image" width="400" />
