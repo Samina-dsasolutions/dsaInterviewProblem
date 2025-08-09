@@ -47,3 +47,17 @@ Given an array **A** of **N** integers, find the count of subarrays in the array
 ```plaintext
  The subarray with zero sum is [-1, 2, -1].
 ```
+
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [countSubarrayZeroSum.java](../../src/hashingOne/countSubarrayZeroSum/approachOne/countSubarrayZeroSum.java)
+#### Time Complexity : o(n^2)
+#### Space Complexity : o(1)
+
+ <img src="../../images/hashingOne/countSubarrayZeroSum/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/countSubarrayZeroSum/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/countSubarrayZeroSum/approachOne/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/countSubarrayZeroSum/approachOne/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/countSubarrayZeroSum/approachOne/step5.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/countSubarrayZeroSum/approachOne/step6.jpg" alt="My Image" width="400" />
