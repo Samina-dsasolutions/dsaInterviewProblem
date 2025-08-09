@@ -48,3 +48,15 @@ If the given array contains such a sub-array, return 1; otherwise, return 0.
 ```plaintext
  The subarray [-1, 1] has sum 0.
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [subArrayWith0Sum.java](../../src/hashingOne/subArrayWith0Sum/approachOne/subArrayWith0Sum.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingOne/subArrayWith0Sum/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/subArrayWith0Sum/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/subArrayWith0Sum/approachOne/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/subArrayWith0Sum/approachOne/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingOne/subArrayWith0Sum/approachOne/step5.jpg" alt="My Image" width="400" />
