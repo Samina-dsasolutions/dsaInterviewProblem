@@ -48,3 +48,17 @@ If there is no subarray that sums to zero, return 0.
 ```plaintext
  No subarray sums up to 0.
 ```
+
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [longestSubarrayZeroSum.java](../../src/hashingTwo/longestSubarrayZeroSum/approachOne/longestSubarrayZeroSum.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingTwo/longestSubarrayZeroSum/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/longestSubarrayZeroSum/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/longestSubarrayZeroSum/approachOne/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/longestSubarrayZeroSum/approachOne/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/longestSubarrayZeroSum/approachOne/step5.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/longestSubarrayZeroSum/approachOne/step6.jpg" alt="My Image" width="400" />
