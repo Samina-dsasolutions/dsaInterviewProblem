@@ -64,9 +64,9 @@ If no such subarray exists, **return an array** with a single integer "**-1**".
  <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step1.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step2.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step3.jpg" alt="My Image" width="400" />
- <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step6.jpg" alt="My Image" width="400" />
- <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step7.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step4.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step5.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step6.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step7.jpg" alt="My Image" width="400" />
  <img src="../../images/hashingTwo/subarrayWithGivenSum/approachOne/step8.jpg" alt="My Image" width="400" />
 

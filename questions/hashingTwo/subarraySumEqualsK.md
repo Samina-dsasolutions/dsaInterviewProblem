@@ -52,3 +52,18 @@ B = 0
 ```plaintext
 All the possible subarrays having sum 0.
 ```
+
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [subarraySumEqualsK.java](../../src/hashingTwo/subarraySumEqualsK/approachOne/subarraySumEqualsK.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingTwo/subarraySumEqualsK/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/subarraySumEqualsK/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/subarraySumEqualsK/approachOne/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/subarraySumEqualsK/approachOne/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/subarraySumEqualsK/approachOne/step5.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/subarraySumEqualsK/approachOne/step6.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/subarraySumEqualsK/approachOne/step7.jpg" alt="My Image" width="400" />
