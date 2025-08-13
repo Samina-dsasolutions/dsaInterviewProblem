@@ -63,3 +63,15 @@ A=[1, 2, 1, 3, 4, 3] and B = 3
 ```plaintext
  Window size is 1, so the output array is [1, 1, 1, 1].
 ```
+# 📝 Problem Solutions
+---
+### Approach1 :
+#### Source code : [distinctNumbersInWindow.java](../../src/hashingTwo/distinctNumbersInWindow/approachOne/distinctNumbersInWindow.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(n)
+
+ <img src="../../images/hashingTwo/distinctNumbersInWindow/approachOne/step1.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/distinctNumbersInWindow/approachOne/step2.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/distinctNumbersInWindow/approachOne/step3.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/distinctNumbersInWindow/approachOne/step4.jpg" alt="My Image" width="400" />
+ <img src="../../images/hashingTwo/distinctNumbersInWindow/approachOne/step5.jpg" alt="My Image" width="400" />
