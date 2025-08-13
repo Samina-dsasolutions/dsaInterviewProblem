@@ -45,7 +45,7 @@ Array sorted using Count Sort is `[1, 2, 3, 4]`.
 # 📝 Problem Solutions
 ---
 ### Approach1 :
-#### Source code : [countSort.java](../src/sortingOne/countSort/approachOne/countSort.java)
+#### Source code : [countSort.java](../../src/sortingOne/countSort/approachOne/countSort.java)
 #### Time Complexity : o(n)
 #### Space Complexity : o(n)
 
