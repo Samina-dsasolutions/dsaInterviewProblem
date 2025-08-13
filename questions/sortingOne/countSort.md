@@ -49,5 +49,5 @@ Array sorted using Count Sort is `[1, 2, 3, 4]`.
 #### Time Complexity : o(n)
 #### Space Complexity : o(n)
 
- <img src="../images/sortingOne/countSort/approachOne/step1.jpg" alt="My Image" width="400" /> 
- <img src="../images/sortingOne/countSort/approachOne/step2.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingOne/countSort/approachOne/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingOne/countSort/approachOne/step2.jpg" alt="My Image" width="400" /> 
