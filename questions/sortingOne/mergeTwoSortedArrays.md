@@ -57,8 +57,8 @@ Merging **A** and **B** results in `[1, 2]`.
 ---
 ### Approach1 :
 #### Source code : [mergeTwoSortedArrays.java](../../src/sortingOne/mergeTwoSortedArrays/approachOne/mergeTwoSortedArrays.java)
-#### Time Complexity : o(n)
-#### Space Complexity : o(n)
+#### Time Complexity : o(n+m)
+#### Space Complexity : o(n+m)
 
  <img src="../../images/sortingOne/mergeTwoSortedArrays/approachOne/step1.jpg" alt="My Image" width="400" /> 
  <img src="../../images/sortingOne/mergeTwoSortedArrays/approachOne/step2.jpg" alt="My Image" width="400" /> 
