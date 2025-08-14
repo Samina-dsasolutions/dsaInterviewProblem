@@ -56,3 +56,4 @@ Return the array sorted in ascending order, demonstrating the application of mer
  <img src="../../images/sortingOne/mergeSort/approachOne/step8.jpg" alt="My Image" width="400" /> 
  <img src="../../images/sortingOne/mergeSort/approachOne/step9.jpg" alt="My Image" width="400" /> 
  <img src="../../images/sortingOne/mergeSort/approachOne/step10.jpg" alt="My Image" width="400" /> 
+
