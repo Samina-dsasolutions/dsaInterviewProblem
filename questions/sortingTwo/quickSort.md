@@ -37,7 +37,7 @@ Return the sorted array.
 # 📝 Problem Solutions
 ---
 ### Approach1 :
-#### Source code : [quickSort.java](../../src/sortingTwo/sort01/approachOne/quickSort.java)
+#### Source code : [quickSort.java](../../src/sortingTwo/approachOne/quickSort.java)
 #### Time Complexity : o(nlogin)
 #### Space Complexity : o(n)
 
