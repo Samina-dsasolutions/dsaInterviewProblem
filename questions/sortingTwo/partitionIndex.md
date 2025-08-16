@@ -65,3 +65,21 @@ and every element in [3, 4] index range is greater than the pivot element.
  <img src="../../images/sortingTwo/partitionIndex/approachOne/step15.jpg" alt="My Image" width="400" /> 
  <img src="../../images/sortingTwo/partitionIndex/approachOne/step16.jpg" alt="My Image" width="400" /> 
  <img src="../../images/sortingTwo/partitionIndex/approachOne/step17.jpg" alt="My Image" width="400" /> 
+
+
+### Approach2 :
+#### Source code : [partitionIndex.java](../../src/sortingTwo/partitionIndex/approachTwo/partitionIndex.java)
+#### Time Complexity : o(n)
+#### Space Complexity : o(1)
+
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step1.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step2.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step3.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step4.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step5.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step6.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step7.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step8.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step9.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step10.jpg" alt="My Image" width="400" /> 
+ <img src="../../images/sortingTwo/partitionIndex/approachTwo/step11.jpg" alt="My Image" width="400" /> 
